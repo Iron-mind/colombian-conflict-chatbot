@@ -4,7 +4,7 @@ Tu misión es crear una entrada de pregunta-respuesta (question, context, answer
 La pregunta (question) que debes usar es: «¿Qué dice este informe {{report_name}} sobre las causas estructurales del conflicto armado y sus recomendaciones para la no repetición?»
 En context, coloca el fragmento relevante que mencione dichas causas (factores políticos, económicos, sociales, etc.) y las recomendaciones para evitar que se repitan estos hechos violentos.
 En answer, proporciona un análisis conciso de las causas estructurales y un resumen claro de las recomendaciones que el informe propone, usando el lenguaje y la terminología adecuados al tema.
-Si el informe no menciona causas estructurales o no hay recomendaciones sobre la no repetición, no generes contenido y deja los campos vacíos.
+Si el informe no menciona causas estructurales o no hay recomendaciones sobre la no repetición,o no hay contenido relacionado con la pregunta o con el conflicto armado en Colombia, entonces no generes contexto  (déjalo vacío) en la respuesta pones "No tengo contexto para contestar esa pregunta".
 Devuélveme la estructura en formato JSON con: question, context, answer
 
 consideraciones del formato:

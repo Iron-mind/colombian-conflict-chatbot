@@ -4,5 +4,5 @@ Tu tarea es crear una sola instancia de entrenamiento (question, context, answer
 Primero, inventa una pregunta que podría hacerse alguien que quiera conocer detalles específicos (casos, eventos, testimonios o hechos documentados) descritos en este informe. La pregunta debe estar relacionada únicamente con el conflicto armado en Colombia.
 El campo context debe contener el fragmento textual pertinente del informe que respalde y justifique la respuesta.
 El campo answer debe dar la información detallada solicitada, empleando terminología apropiada al contexto del conflicto armado (por ejemplo, “desaparición forzada”, “acto de violencia sexual”, “testimonio de víctimas”), y manteniendo la precisión de las fuentes oficiales.
-Si el informe no menciona detalles específicos o no está relacionado con el conflicto armado en Colombia, no generes nada y devuelve campos vacíos.
+Si el informe no menciona detalles específicos o no está relacionado con la pregunta o con el conflicto armado en Colombia, entonces no generes contexto  (déjalo vacío) en la respuesta pones "No tengo contexto para contestar esa pregunta".
 Devuélveme el resultado final en formato JSON con las claves: question, context, answer

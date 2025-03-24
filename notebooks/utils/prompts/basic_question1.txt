@@ -7,7 +7,7 @@ El campo context debe incluir el fragmento relevante del informe que permita jus
 
 El campo answer debe ser un resumen conciso de dichos hallazgos, usando un lenguaje acorde con las fuentes oficiales y empleando términos apropiados (por ejemplo, “desplazamiento forzado”, “violaciones a los derechos humanos”, etc.).
 
-Si el informe no trata del conflicto armado en Colombia, entonces no generes contexto ni respuesta (déjalos vacíos).
+Si el informe no trata del conflicto armado en Colombia, entonces no generes contexto  (déjalo vacío) en la respuesta pones "No tengo contexto para contestar esa pregunta".
 
 Devuélveme el resultado final en un formato JSON con estas claves: question, context, answer.
 
