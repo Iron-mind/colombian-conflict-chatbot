@@ -1,0 +1,11 @@
+Tienes acceso al texto completo de {{report_name}}.
+Tu misión es crear una entrada de pregunta-respuesta (question, context, answer) acerca del conflicto armado en Colombia.
+
+La pregunta (question) que debes usar es: «¿Qué dice este informe {{report_name}} sobre las causas estructurales del conflicto armado y sus recomendaciones para la no repetición?»
+En context, coloca el fragmento relevante que mencione dichas causas (factores políticos, económicos, sociales, etc.) y las recomendaciones para evitar que se repitan estos hechos violentos.
+En answer, proporciona un análisis conciso de las causas estructurales y un resumen claro de las recomendaciones que el informe propone, usando el lenguaje y la terminología adecuados al tema.
+Si el informe no menciona causas estructurales o no hay recomendaciones sobre la no repetición, no generes contenido y deja los campos vacíos.
+Devuélveme la estructura en formato JSON con: question, context, answer
+
+consideraciones del formato:
+Cuando generes el context, question o answer recuerda que el texto debe ser plano y en lenguaje natural. No debe contener texto en otros patrones como latex, md, html, etc. Ejemplo de texto que No debe ir: "&#8203;:contentReference[oaicite:0]{index=0}"

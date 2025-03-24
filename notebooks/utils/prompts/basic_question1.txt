@@ -1,0 +1,15 @@
+Tienes acceso al texto completo de {{report_name}}.
+Tu tarea es crear una instancia de entrenamiento para un sistema de pregunta-respuesta (QA) sobre el conflicto armado en Colombia.
+
+La pregunta (question) será: «¿Cuáles son los hallazgos principales del informe {{report_name}} sobre el conflicto armado colombiano?»
+
+El campo context debe incluir el fragmento relevante del informe que permita justificar la respuesta.
+
+El campo answer debe ser un resumen conciso de dichos hallazgos, usando un lenguaje acorde con las fuentes oficiales y empleando términos apropiados (por ejemplo, “desplazamiento forzado”, “violaciones a los derechos humanos”, etc.).
+
+Si el informe no trata del conflicto armado en Colombia, entonces no generes contexto ni respuesta (déjalos vacíos).
+
+Devuélveme el resultado final en un formato JSON con estas claves: question, context, answer.
+
+consideraciones del formato:
+Cuando generes el context, question o answer recuerda que el texto debe ser plano y en lenguaje natural. No debe contener texto en otros patrones como latex, md, html, etc. Ejemplo de texto que No debe ir: "&#8203;:contentReference[oaicite:0]{index=0}"

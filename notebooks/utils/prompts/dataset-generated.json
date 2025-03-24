@@ -1,0 +1,25 @@
+[
+  {
+    "question": "¿Qué dice el informe '058-CI-00233 Informe agroarte Colombia: Red Territorial de la Memoria' sobre las causas estructurales del conflicto armado y sus recomendaciones para la no repetición?",
+    "context": "El informe argumenta que el conflicto armado en Colombia se ha nutrido de una serie de factores estructurales que incluyen la desigualdad social, el despojo de tierras, y la exclusión de las comunidades rurales. Estos factores han generado condiciones propicias para el reclutamiento de jóvenes, la violencia política, y la falta de acceso a justicia. Se destaca la necesidad de reconocer y proteger los espacios de memoria generados por víctimas y colectivos sociales, ya que estos lugares son fundamentales para la reparación simbólica, la garantía del derecho a la verdad y la consolidación de la paz. Además, el informe resalta la importancia de la creación de una Ley de Memoria Histórica que garantice la pervivencia de estos lugares de memoria.",
+    "answer": "El informe identifica causas estructurales del conflicto armado en Colombia, como la desigualdad social, el despojo de tierras y la exclusión de las comunidades rurales, que han contribuido a la violencia prolongada. También subraya la importancia de los lugares de memoria, generados por las víctimas y actores sociales, como espacios esenciales para la reparación simbólica y la construcción de paz. En cuanto a las recomendaciones, se sugiere la creación de una Ley de Memoria Histórica que incluya un mecanismo de reconocimiento y protección de estos lugares, para evitar su desaparición y garantizar su preservación para las generaciones futuras."
+    ,
+    "generated_by": "gpt-4o"
+  },
+  {
+    "question": "¿Cuáles son los hallazgos principales del informe 058-CI-00233 Informe agroarte Colombia: Red Territorial de la Memoria sobre el conflicto armado colombiano?",
+    "context": "El informe destaca que los espacios físicos de memoria histórica, como el cementerio La América en la Comuna 13 de Medellín, configurados por víctimas y colectivos sociales, son esenciales para la construcción de memorias colectivas y la reparación simbólica. Estos lugares contribuyen a la consolidación de la paz al generar diálogos sobre las causas del conflicto y fortalecer el tejido social. Sin embargo, advierte que la falta de protección jurídica en Colombia los expone a riesgos de desaparición o enajenación, lo que amenaza su función como pilares para la no repetición.",
+    "answer": "Los hallazgos principales del informe incluyen: 1) La relevancia de los espacios de memoria histórica (como el cementerio La América) para la reparación simbólica de las víctimas y la construcción de narrativas colectivas que fomentan la convivencia. 2) La ausencia de mecanismos legales en Colombia para proteger estos lugares, lo que pone en riesgo su pervivencia. 3) La necesidad de reconocer jurídicamente estos espacios como herramientas clave para garantizar el derecho a la verdad, evitar el olvido y consolidar una paz estable, mediante una Ley de Memoria Histórica que los identifique y proteja."
+  ,
+  "generated_by": "deepseek-r1"
+  },
+  {
+    "question": "¿Qué iniciativas específicas de memoria histórica desarrolladas en el Cementerio La América de Medellín documenta el informe 058-CI-00233 en relación con el conflicto armado?",
+    "context": "El informe detalla actividades como la creación de 'memoriales vivos' mediante siembra de plantas con nombres de víctimas desaparecidas, murales artísticos que retratan historias de violencia urbana, y entrevistas a familias de víctimas. Ejemplo: entrevistas a la Familia Restrepo (Carol Vanessa Restrepo), Familia Posada Álvarez (Hernán Posada) y otras, cuyos testimonios se integraron en intervenciones gráficas y rituales comunitarios para 'transformar el dolor en memoria' (Anexo, págs. 29-34). Estas acciones se enmarcan en el proyecto 'Galería Viva', activo desde 2017.",
+    "answer": "El informe documenta: 1) La creación de memoriales vivos con plantas dedicadas a víctimas como Carol Vanessa Restrepo y Hernán Posada, vinculadas a desapariciones forzadas y violencia urbana. 2) Murales colaborativos que representan historias de resistencia, como los realizados en homenaje a Fabiola Lalinde. 3) Entrevistas a 10 familias de víctimas, cuyos testimonios alimentaron intervenciones artísticas y rituales de siembra. Estas iniciativas, agrupadas en el proyecto 'Galería Viva', buscan reparación simbólica mediante prácticas comunitarias que combinan arte, agricultura urbana y reconstrucción de memoria histórica."
+    ,
+    "generated_by": "deepseek-r1"
+  }
+ 
+
+]

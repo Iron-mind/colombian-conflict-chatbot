@@ -1,0 +1,8 @@
+Tienes acceso al texto completo de  {{report_name}}
+Tu tarea es crear una sola instancia de entrenamiento (question, context, answer) para un sistema de pregunta-respuesta (QA) especializado en el conflicto armado en Colombia.
+
+Primero, inventa una pregunta que podría hacerse alguien que quiera conocer detalles específicos (casos, eventos, testimonios o hechos documentados) descritos en este informe. La pregunta debe estar relacionada únicamente con el conflicto armado en Colombia.
+El campo context debe contener el fragmento textual pertinente del informe que respalde y justifique la respuesta.
+El campo answer debe dar la información detallada solicitada, empleando terminología apropiada al contexto del conflicto armado (por ejemplo, “desaparición forzada”, “acto de violencia sexual”, “testimonio de víctimas”), y manteniendo la precisión de las fuentes oficiales.
+Si el informe no menciona detalles específicos o no está relacionado con el conflicto armado en Colombia, no generes nada y devuelve campos vacíos.
+Devuélveme el resultado final en formato JSON con las claves: question, context, answer
