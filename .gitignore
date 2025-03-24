@@ -172,3 +172,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# Ignorar todo en las carpetas .conda y .venv
+.conda/
+.venv/
+
+# Ignorar todos los archivos PDF dentro de reports-pdf
+reports-pdf/**/*.pdf
+reports-pdf/**/*.csv
