@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Editor de JSON</title>
+  <style>
+    body {
+      font-family: Arial;
+      padding: 20px;
+      max-width: 800px;
+      margin: auto;
+    }
+
+    textarea {
+      width: 100%;
+      height: 80px;
+      margin-bottom: 10px;
+    }
+
+    button {
+      margin: 5px;
+    }
+
+    #controls {
+      display: flex;
+      justify-content: space-between;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>Editor de Datos JSON</h1>
+  <input type="file" id="fileInput" accept=".json">
+  <button id="exportBtn">Exportar JSON</button>
+
+  <div id="editor" style="margin-top: 20px;">
+    <p><strong>Pregunta:</strong></p>
+    <textarea id="question"></textarea>
+
+    <p><strong>Contexto:</strong></p>
+    <textarea id="context"></textarea>
+
+    <p><strong>Respuesta:</strong></p>
+    <textarea id="answer"></textarea>
+
+    <p><strong>Generado por:</strong></p>
+    <input type="text" id="generated_by" style="width: 100%;">
+
+    <div id="controls">
+      <button id="prevBtn">⬅ Anterior</button>
+      <span id="pageInfo"></span>
+      <button id="nextBtn">Siguiente ➡</button>
+    </div>
+
+    <button id="saveBtn">Guardar cambios</button>
+  </div>
+
+  <script>
+    let currentIndex = 0
+    let dataList = []
+
+    const fileInput = document.getElementById('fileInput')
+    const questionInput = document.getElementById('question')
+    const contextInput = document.getElementById('context')
+    const answerInput = document.getElementById('answer')
+    const generatedByInput = document.getElementById('generated_by')
+    const pageInfo = document.getElementById('pageInfo')
+
+    fileInput.addEventListener('change', e => {
+      const file = e.target.files[0]
+      if (!file) return
+      const reader = new FileReader()
+      reader.onload = e => {
+        try {
+          dataList = JSON.parse(e.target.result)
+          localStorage.setItem('jsonData', JSON.stringify(dataList))
+          currentIndex = 0
+          render()
+        } catch {
+          alert('Archivo inválido.')
+        }
+      }
+      reader.readAsText(file)
+    })
+
+    function loadFromLocalStorage() {
+      const stored = localStorage.getItem('jsonData')
+      if (stored) {
+        dataList = JSON.parse(stored)
+        render()
+      }
+    }
+
+    function render() {
+      if (!dataList.length) {
+        questionInput.value = ''
+        contextInput.value = ''
+        answerInput.value = ''
+        generatedByInput.value = ''
+        pageInfo.textContent = '0 / 0'
+        return
+      }
+
+      const item = dataList[currentIndex]
+      questionInput.value = item.question || ''
+      contextInput.value = item.context || ''
+      answerInput.value = item.answer || ''
+      generatedByInput.value = item.generated_by || ''
+      pageInfo.textContent = `${currentIndex + 1} / ${dataList.length}`
+    }
+
+    document.getElementById('prevBtn').addEventListener('click', () => {
+      if (currentIndex > 0) {
+        currentIndex--
+        render()
+      }
+    })
+
+    document.getElementById('nextBtn').addEventListener('click', () => {
+      if (currentIndex < dataList.length - 1) {
+        currentIndex++
+        render()
+      }
+    })
+
+    document.getElementById('saveBtn').addEventListener('click', () => {
+      if (!dataList.length) return
+      dataList[currentIndex] = {
+        question: questionInput.value,
+        context: contextInput.value,
+        answer: answerInput.value,
+        generated_by: generatedByInput.value
+      }
+      localStorage.setItem('jsonData', JSON.stringify(dataList))
+      alert('Cambios guardados.')
+    })
+
+    document.getElementById('exportBtn').addEventListener('click', () => {
+      const blob = new Blob([localStorage.getItem('jsonData')], { type: 'application/json' })
+      const link = document.createElement('a')
+      link.href = URL.createObjectURL(blob)
+      link.download = 'data_exportada.json'
+      link.click()
+    })
+
+    loadFromLocalStorage()
+  </script>
+
+</body>
+
+</html>
