@@ -712,5 +712,611 @@
     "question": "¿Qué dice este informe 066-CI-01010 Crónica de los efectos del conflicto armado en los servicios de salud en los municipios que más sufren sobre las causas estructurales del conflicto armado y sus recomendaciones para la no repetición?",
     "answer": "El informe señala como causas estructurales la desigualdad social, la ausencia estatal en regiones vulnerables, y la cooptación del sistema de salud por actores armados. Recomienda fortalecer el sistema de salud con enfoque territorial, proteger a los trabajadores sanitarios, mejorar la infraestructura en zonas rurales y garantizar una presencia estatal sostenida como estrategia de no repetición.",
     "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El Frente Popular fue víctima de una estrategia sistemática de exterminio con responsabilidad directa del Estado colombiano, en alianza o con permisividad frente a grupos paramilitares. Entre 1987 y 1990 se documentaron al menos 120 homicidios de sus militantes, así como múltiples desplazamientos forzados, desapariciones y amenazas. Las masacres de Honduras y La Negra, Mejor Esquina, El Tomate, Punta Coquitos y Pueblo Bello son algunos de los casos más emblemáticos. El informe subraya la impunidad prevaleciente, la estigmatización como mecanismo de violencia y la intención de desarticular el proyecto político de izquierda mediante el terror.",
+    "question": "¿Cuáles son los hallazgos principales del informe 066-CI-01018 El Frente Popular: Un grave caso de exterminio político de responsabilidad estatal, 1985-1991 sobre el conflicto armado colombiano?",
+    "answer": "El informe concluye que el Frente Popular fue víctima de un exterminio político sistemático durante el conflicto armado colombiano, con responsabilidad directa de agentes estatales y grupos paramilitares. Documenta masacres, desapariciones forzadas, homicidios selectivos y desplazamientos, en un contexto de impunidad y estigmatización que buscó eliminar la oposición política de izquierda.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El 4 de marzo de 1988 se produjo, en las fincas bananeras “Honduras” y “La Negra”, en Currulao, Urabá, Antioquia, la masacre de más de veinte obreros del Frente Popular por un grupo de treinta hombres armados, con las caras cubiertas y vestidos de civil que, con lista en mano, los fueron llamando uno a uno y los fusilaron. Las investigaciones oficiales establecieron la participación de paramilitares, narcotraficantes, empresarios agrícolas, mercenarios extranjeros, funcionarios locales y miembros de la Fuerza Pública.",
+    "question": "¿Qué ocurrió en la masacre de las fincas Honduras y La Negra según el informe 066-CI-01018?",
+    "answer": "En la masacre de las fincas Honduras y La Negra, más de veinte trabajadores fueron asesinados selectivamente por un grupo armado que incluía paramilitares y agentes estatales. Este hecho ilustra la connivencia entre el Estado y actores ilegales en actos de exterminio político durante el conflicto armado en Colombia.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "Las causas estructurales identificadas en el informe incluyen la exclusión política de movimientos de izquierda, la represión violenta por parte del Estado y la falta de garantías para la participación democrática. También señala la estigmatización y criminalización de líderes sociales y sindicales como elementos que facilitaron la violencia. El informe propone, entre otras recomendaciones, el reconocimiento estatal de responsabilidad, la reparación integral individual y colectiva, la memoria histórica, y garantías para la participación política de sectores de oposición, así como la atención efectiva a víctimas en regiones como Antioquia y Córdoba.",
+    "question": "¿Qué dice este informe 066-CI-01018 El Frente Popular: Un grave caso de exterminio político de responsabilidad estatal, 1985-1991 sobre las causas estructurales del conflicto armado y sus recomendaciones para la no repetición?",
+    "answer": "El informe atribuye el conflicto armado a causas estructurales como la exclusión política, la represión estatal y la ausencia de garantías democráticas. Recomienda al Estado asumir su responsabilidad, implementar medidas de justicia y reparación, fortalecer la memoria histórica y garantizar la no repetición mediante la protección de derechos políticos y sociales de los sectores marginados.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "Se destacan logros en materia de derechos humanos de estos acuerdos de paz, pero así mismo las graves problemáticas sucedidas contra sus participantes en la fase de reinserción y reincorporación a vida civil. Entre los logros se destacan contribuciones a la Constitución Política de 1991; las gestiones en espacios de gobernabilidad, en las corporaciones públicas y en la generación de ambientes y programas de convivencia y resolución pacífica de los conflictos; la prioridad dada a los temas de derechos y bienestar social en los proyectos políticos y las iniciativas promovidas; las comisiones relacionadas con la crisis humanitaria y su tratamiento pactadas; los programas e iniciativas desarrolladas en derechos humanos y en derecho humanitario. Los diagnósticos revelan la crisis humanitaria que afectó de manera grave y en ciertos contextos masiva y sistemática a la población amnistiada e indultada en los acuerdos de paz del 90, de forma que al respecto se entregaron al Estado, al Gobierno y al conjunto de las autoridades recomendaciones y propuestas para su correspondiente actuación y tratamiento a distinto nivel.",
+    "question": "¿Cuáles son los hallazgos principales del informe 066-CI-01019 Los derechos humanos y el Derecho Humanitario en los procesos de paz sobre el conflicto armado colombiano?",
+    "answer": "El informe destaca aportes positivos de los acuerdos de paz, como su influencia en la Constitución Política de 1991, pero también señala la crisis humanitaria grave y sistemática que afectó a excombatientes durante su reinserción, formulando recomendaciones al Estado para mitigar estos efectos negativos y proteger sus derechos fundamentales.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "Los diagnósticos revelan la crisis humanitaria que afectó de manera grave y en ciertos contextos masiva y sistemática a la población amnistiada e indultada en los acuerdos de paz del 90, de forma que al respecto se entregaron al Estado, al Gobierno y al conjunto de las autoridades recomendaciones y propuestas para su correspondiente actuación y tratamiento a distinto nivel. Se realizó un diagnóstico sobre la experiencia de los programas de reinserción y reintegración de excombatientes a la vida civil y el análisis de las situaciones y problemáticas registradas en materia de derechos humanos y derecho humanitario, documentando cerca de 1.315 víctimas ocasionadas entre violaciones a derechos humanos e infracciones al derecho humanitario durante estos procesos.",
+    "question": "¿Qué casos específicos documenta el informe 066-CI-01019 sobre violaciones graves a los derechos humanos de excombatientes en proceso de reintegración en los acuerdos de paz del 90?",
+    "answer": "El informe documenta una crisis humanitaria severa contra excombatientes amnistiados en los años noventa, identificando cerca de 1.315 víctimas directas por violaciones graves a los derechos humanos, incluyendo homicidios, desapariciones y desplazamientos forzados durante la reintegración a la vida civil.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe identifica como causas estructurales del conflicto armado factores políticos, sociales y económicos profundos, incluyendo la exclusión política, social y económica de amplios sectores de la población, la debilidad institucional del Estado, el uso desproporcionado de la violencia estatal y la influencia persistente del paramilitarismo. Recomienda desarrollar políticas públicas integrales y participativas para la reinserción y reincorporación, priorizar la seguridad de los desmovilizados, atender la crisis humanitaria sufrida por estos grupos, reconocer plenamente los derechos de las víctimas, y promover una política social para la paz que permita prevenir la repetición de hechos violentos.",
+    "question": "¿Qué dice este informe 066-CI-01019 Los derechos humanos y el Derecho Humanitario en los procesos de paz sobre las causas estructurales del conflicto armado y sus recomendaciones para la no repetición?",
+    "answer": "El informe atribuye el conflicto armado a exclusiones políticas y socioeconómicas profundas, debilidad institucional, violencia estatal excesiva y paramilitarismo persistente. Recomienda fortalecer la reintegración mediante políticas públicas participativas, garantizar la seguridad y los derechos de desmovilizados y víctimas, y priorizar medidas sociales para una paz sostenible que eviten la repetición de la violencia.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe documenta el surgimiento y evolución del EPL, su vinculación con movimientos sociales, y el impacto del conflicto en la población civil. Destaca cómo la guerra irregular en Córdoba, Urabá y otras regiones fue acompañada de graves violaciones a los derechos humanos por parte del Estado, del EPL y de grupos paramilitares. Se analiza la transformación del EPL desde una insurgencia radical hacia un actor que propició un proceso de paz y su posterior integración política. Sin embargo, también se documentan disidencias, rearme y violencias persistentes, afectando principalmente a sectores campesinos, indígenas y desmovilizados. El informe subraya la complejidad de las relaciones entre guerrilla y población civil, marcadas por apoyos, tensiones y resistencias.",
+    "question": "¿Cuáles son los hallazgos principales del informe 066-CI-01020 PCC ML - EPL: guerra irregular, pacto de paz y constituyente, relaciones e impactos frente a los movimientos sociales y la población civil sobre el conflicto armado colombiano?",
+    "answer": "El informe concluye que el EPL tuvo una influencia significativa en varias regiones, inicialmente articulado con las luchas campesinas, pero que derivó en violencia generalizada. Se documentan violaciones al derecho internacional humanitario tanto del EPL como del Estado y paramilitares. El proceso de paz permitió avances democráticos, pero las disidencias y la falta de garantías para desmovilizados y sus comunidades afectaron la credibilidad del mismo. La población civil fue usada como soporte, víctima y escenario de confrontación, lo cual refleja la gravedad del conflicto armado colombiano.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "Tras la firma del acuerdo de paz con el EPL en 1991, una disidencia armada minoritaria del grupo rechazó el proceso y continuó en armas. En la región de Urabá se presentó una grave confrontación entre esta disidencia y otros actores armados como las FARC y los llamados Comandos Populares, que también surgieron como reacción violenta. Este escenario derivó en múltiples ataques contra excombatientes, líderes sociales y población civil. Varios de los integrantes de estas disidencias terminaron vinculados a estructuras paramilitares como las ACCU y posteriormente las AUC, participando en ataques sistemáticos contra poblaciones estigmatizadas por su cercanía con zonas de influencia guerrillera.",
+    "question": "¿Qué hechos violentos protagonizó la disidencia del EPL tras el acuerdo de paz de 1991, según el informe 066-CI-01020?",
+    "answer": "La disidencia del EPL fue responsable de múltiples actos de violencia tras el acuerdo de paz, especialmente en Urabá. Estos incluyeron asesinatos de excombatientes y líderes sociales, así como enfrentamientos con otras guerrillas y organizaciones paramilitares. Los disidentes del EPL contribuyeron posteriormente a la expansión del paramilitarismo, agravando la violencia contra comunidades rurales y sectores de izquierda.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe identifica causas estructurales del conflicto armado en factores como la exclusión política, la concentración de la tierra, la ausencia del Estado en zonas rurales, y la represión violenta a los movimientos sociales. También señala que el proyecto insurgente del EPL emergió en respuesta a estas condiciones, particularmente en regiones como Córdoba y Urabá. El documento recomienda fortalecer las garantías para la participación política, proteger a los desmovilizados y a las comunidades vulnerables, implementar políticas agrarias justas, y reconocer la memoria de las víctimas como fundamento de la no repetición.",
+    "question": "¿Qué dice este informe 066-CI-01020 PCC ML - EPL: guerra irregular, pacto de paz y constituyente, relaciones e impactos frente a los movimientos sociales y la población civil sobre las causas estructurales del conflicto armado y sus recomendaciones para la no repetición?",
+    "answer": "El informe atribuye el conflicto armado a profundas desigualdades sociales, la represión estatal y la exclusión política. Recomienda asegurar garantías para la reintegración de excombatientes, proteger los derechos de las comunidades afectadas, fomentar la participación política y promover reformas estructurales en el campo. Además, enfatiza la importancia de la verdad y la memoria histórica como ejes de la no repetición.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe 066-CI-01144, elaborado por integrantes de la reserva activa del Ejército Nacional, expone una visión crítica sobre la exclusión de militares retirados en la composición de la Comisión de la Verdad. Aborda temas como la Doctrina de Seguridad Nacional, el origen del paramilitarismo, y el papel del comunismo como causa del conflicto armado. También defiende la legitimidad de las autodefensas legales y denuncia la falta de protección estatal a ganaderos y campesinos frente al accionar guerrillero. Señala que la subsistencia del conflicto se debe a la falta de voluntad política del Estado y a una respuesta centrada únicamente en lo militar, sin atender los factores políticos, sociales y económicos que lo originaron.",
+    "question": "¿Cuáles son los hallazgos principales del informe 066-CI-01144 Temas seleccionados para remitir a la Comisión de la Verdad sobre el conflicto armado colombiano?",
+    "answer": "El informe destaca como causas del conflicto la ideología comunista y la falta de respuestas estatales integrales frente al desarrollo subversivo. Critica la exclusión de la reserva activa militar en procesos de verdad, defiende las autodefensas legales como reacción a la falta de protección y denuncia que el conflicto se abordó exclusivamente desde lo militar, sin atender sus raíces sociales, políticas y económicas.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe sostiene que el paramilitarismo no fue inicialmente promovido por el Estado o ganaderos, sino que surgió tras la pérdida de control de las autodefensas legales creadas para colaborar con las fuerzas armadas en inteligencia de combate. Según el autor, estas autodefensas fueron luego cooptadas por el narcotráfico tras ser ilegalizadas por el Congreso. También afirma que existieron versiones previas de autodefensas comunistas desde los años cuarenta, promovidas por el Partido Comunista Colombiano. El informe resalta que muchas personas se armaron como último recurso frente a la extorsión y violencia guerrillera, especialmente en regiones rurales desprotegidas.",
+    "question": "¿Qué dice el informe 066-CI-01144 sobre la creación y evolución del paramilitarismo en Colombia?",
+    "answer": "El informe señala que el paramilitarismo surgió de la desarticulación de autodefensas legales y fue posteriormente cooptado por el narcotráfico. Sostiene que las primeras autodefensas fueron comunistas y que muchas personas en zonas rurales se organizaron armadamente como mecanismo de defensa frente a la violencia guerrillera y la falta de respuesta estatal.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "Según el informe, una de las causas estructurales del conflicto fue la falta de voluntad política del Estado para enfrentar la amenaza subversiva mediante recursos políticos, diplomáticos, económicos y sociales, confiando únicamente en la acción militar. También critica la desinformación sobre los factores que motivaron el conflicto y la tergiversación ideológica desde el exterior. Aunque no propone directamente recomendaciones de política pública, el informe sugiere que la comprensión integral del conflicto y la inclusión de la visión de las fuerzas militares son clave para evitar narrativas sesgadas y fomentar una verdadera reconciliación.",
+    "question": "¿Qué dice este informe 066-CI-01144 Temas seleccionados para remitir a la Comisión de la Verdad sobre las causas estructurales del conflicto armado y sus recomendaciones para la no repetición?",
+    "answer": "El informe atribuye la persistencia del conflicto armado a la omisión del Estado en abordar sus causas políticas, sociales y económicas, limitándose a una respuesta militar. Sugiere que la no repetición exige reconocer la complejidad del conflicto, incluir las voces de las fuerzas armadas retiradas y evitar enfoques ideológicos parciales en la construcción de verdad.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "Migajas. Trastos sin ninguna posibilidad de ser comercializados. Bienes muebles o inmuebles, incluso semovientes, que han desaparecido desde el 15 de agosto de 2017, cuando las Farc se comprometieron a entregar $995 mil millones para reparar a las víctimas del conflicto armado que sostuvieron durante más de 50 años con el Estado colombiano. A la fecha, según agencias oficiales, solo se entregaron $35 mil 417 millones. [...] Las cuentas de la Sociedad de Activos Especiales (SAE), agencia estatal encargada de recibir y administrar esos bienes prometidos por los subversivos desmovilizados, hablan por sí solas: apenas se ha recibido 'el 3,55 % de lo que la Farc se comprometió, voluntariamente, a entregar para reparar a sus víctimas'.",
+    "question": "¿Cuáles son los hallazgos principales del informe 066-CI-01145 FARC-EP: financiación en armas y posible reparación con bienes sobre el conflicto armado colombiano?",
+    "answer": "El informe revela que, a pesar del compromiso de las FARC-EP de entregar bienes por valor de $995 mil millones para reparar a las víctimas del conflicto armado, solo se ha recibido el 3,55 % de lo prometido. Esta cifra representa un grave incumplimiento del acuerdo de paz, evidenciando la limitada disposición de los excombatientes a responder con acciones concretas por los daños causados. Se destacan bienes desaparecidos o en manos de actores armados ilegales, lo que agrava la situación de impunidad.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "Del oro que devolverían, faltan $1.462 millones. De los semovientes, que eran 21.324, solo se han recibido 224. Por equipos y enseres se recibirían $21 mil 311 millones, el registro a hoy es de solo $200 millones. Y de infraestructura entraban a la reparación $196 mil 622 millones. Solo se pudieron verificar, en rastreo de EL COLOMBIANO, $1 mil 210 millones. [...] De los 720 bienes, entre los que había 606 fincas, apenas van ubicados 299. Es decir, 513 están en el aire.",
+    "question": "¿Qué tipo de bienes prometieron las FARC para la reparación de víctimas del conflicto armado y cuántos han sido realmente entregados?",
+    "answer": "Las FARC-EP se comprometieron a entregar diversos tipos de bienes como oro, semovientes, equipos, enseres e infraestructura para reparar a las víctimas del conflicto armado. Sin embargo, la entrega ha sido mínima: solo se han recibido 224 de los más de 21.000 semovientes prometidos, $200 millones de los $21 mil millones en equipos, y menos del 1 % de la infraestructura declarada. Más de 500 fincas no han podido ser localizadas, algunas en zonas controladas por otros actores armados ilegales.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "Si se recuerda que uno de los fundamentos del proceso de paz con esa guerrilla era poner a las víctimas en el centro de los objetivos y beneficios de la desactivación del conflicto, hoy apenas se puede hablar de la disminución de las acciones violentas y de la reducción de los afectados por la guerra irregular y de baja intensidad que sostuvieron las Farc contra la sociedad colombiana y sus instituciones gubernamentales y civiles. [...] Las Farc y el Gobierno de Juan Manuel Santos dieron garantía de no repetición. ¿Qué condiciones objetivas hay para que hechos tan graves no se repitan, sin retaliaciones de cualquier índole, cuando las víctimas descansan en un contexto de incumplimientos y descuidos como este?",
+    "question": "¿Qué dice este informe 066-CI-01145 FARC-EP: financiación en armas y posible reparación con bienes sobre las causas estructurales del conflicto armado y sus recomendaciones para la no repetición?",
+    "answer": "El informe sugiere que una causa estructural clave del conflicto fue la guerra irregular sostenida por las FARC contra el Estado y la sociedad colombiana. Aunque el proceso de paz buscó poner a las víctimas en el centro, la falta de cumplimiento en la reparación mina la legitimidad de estos esfuerzos. Se cuestiona la viabilidad de las garantías de no repetición en un contexto de promesas incumplidas, destacando la necesidad de acciones concretas para restaurar la confianza y prevenir futuras violencias.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe defiende que el acceso de la Comisión de la Verdad (CEV) a información reservada por motivos de seguridad nacional es esencial para cumplir su mandato de esclarecer violaciones a los derechos humanos en el marco del conflicto armado. Limitar ese acceso empobrecería las narrativas del conflicto y obstaculizaría la comprensión de las causas de la victimización. Se argumenta que cualquier restricción violaría el Acuerdo Final de Paz, el cual obliga al Estado a facilitar la verdad y la memoria histórica. También se señala que impedir el acceso a esta información iría en contra de estándares internacionales como la jurisprudencia de la Corte Interamericana de Derechos Humanos y los Principios de Tshwane, que prohíben negar información sobre violaciones de derechos humanos, incluso por razones de seguridad nacional.",
+    "question": "¿Cuáles son los hallazgos principales del informe 066-CI-01152 Ideas para defender la competencia de la Comisión de la Verdad para acceder a información reservada por motivos de seguridad nacional y a información personal de agentes de seguridad del Estado sobre el conflicto armado colombiano?",
+    "answer": "El informe concluye que limitar el acceso de la Comisión de la Verdad a información reservada comprometería seriamente su capacidad para esclarecer violaciones a los derechos humanos durante el conflicto armado. Estas restricciones vulnerarían el Acuerdo Final de Paz, los estándares internacionales y la jurisprudencia constitucional, debilitando la garantía de los derechos a la verdad y a la memoria histórica de las víctimas.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe plantea que conocer cómo el Estado y sus fuerzas de seguridad definieron y enfrentaron al 'enemigo interno' durante el conflicto armado es clave para explicar las causas estructurales de la violencia. Además, insiste en que el derecho a la verdad requiere acceso irrestricto a toda la información pública, incluso clasificada. Recalca que restringir dicho acceso impide elaborar narrativas que expliquen de manera integral el conflicto, afectando la posibilidad de formular recomendaciones eficaces para evitar su repetición.",
+    "question": "¿Qué dice este informe 066-CI-01152 Ideas para defender la competencia de la Comisión de la Verdad para acceder a información reservada por motivos de seguridad nacional y a información personal de agentes de seguridad del Estado sobre las causas estructurales del conflicto armado y sus recomendaciones para la no repetición?",
+    "answer": "El informe señala que las causas estructurales del conflicto armado colombiano están relacionadas con la forma en que el Estado trató al 'enemigo interno' y con prácticas institucionales que deben ser comprendidas. Por ello, recomienda garantizar el acceso irrestricto a la información pública para que la Comisión de la Verdad pueda construir una narrativa completa que fundamente medidas efectivas de no repetición.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe se apoya en la jurisprudencia de la Corte Interamericana de Derechos Humanos, destacando los casos Myrna Mack Chang vs. Guatemala, Gomes Lund vs. Brasil y Gudiel Álvarez vs. Guatemala. En estos, la Corte estableció que los Estados no pueden invocar la seguridad nacional para negar acceso a información relacionada con violaciones graves a los derechos humanos. También cita los Principios de Tshwane, que prohíben clasificar información sobre violaciones a derechos humanos bajo pretextos de seguridad nacional, subrayando el interés público preponderante en su divulgación.",
+    "question": "¿Qué antecedentes internacionales utiliza el informe 066-CI-01152 para defender el acceso de la Comisión de la Verdad a información clasificada sobre violaciones a los derechos humanos en el conflicto armado colombiano?",
+    "answer": "El informe utiliza como antecedentes clave las sentencias de la Corte Interamericana de Derechos Humanos que condenan a los Estados por negar acceso a información sobre violaciones de derechos humanos, así como los Principios de Tshwane, que establecen que dicha información debe divulgarse incluso en contextos de seguridad nacional. Estos precedentes fortalecen la defensa del derecho de la Comisión de la Verdad a acceder a información clasificada durante el conflicto armado colombiano.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El Capítulo Étnico y el punto 5 (Víctimas) del Acuerdo Final para la Terminación del Conflicto y la Construcción de una Paz Estable y Duradera deben articularse para que su implementación garantice la reparación integral de las víctimas, así como el respeto a las facultades jurisdiccionales reconocidas a los pueblos indígenas mediante mandato constitucional. [...] Dentro de las salvaguardas y garantías se estableció respetar el carácter principal y no subsidiario de la consulta previa libre e informada y el derecho a la objeción cultural como garantía de no repetición.",
+    "question": "¿Cuáles son los hallazgos principales del informe 066-CI-01153 Acta de la mesa permanente de concertación con los pueblos y organizaciones indígenas sobre el conflicto armado colombiano?",
+    "answer": "El informe destaca que el conflicto armado ha afectado directamente a los pueblos indígenas, y resalta la necesidad de implementar el Capítulo Étnico del Acuerdo de Paz en articulación con los mecanismos de justicia transicional para garantizar reparación integral. También subraya la importancia de respetar la consulta previa y la objeción cultural como salvaguardas para evitar la repetición de violaciones a los derechos de estos pueblos.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "La Corte Constitucional señaló [...] no solo se altera el estatus de los grupos indígenas, cuando por vía de la JEP se limita el alcance de su justicia especializada; sino que también se modifica el fuero especial del que son titulares los miembros de dichas comunidades, al permitir que el sistema de administración de justicia al que están sometidos sea reemplazado por una nueva autoridad [...], frente a la cual la posibilidad de insistir en la autonomía de sus prácticas y costumbres se ve restringida [...].",
+    "question": "¿Qué tensiones existen entre la Jurisdicción Especial para la Paz (JEP) y la jurisdicción indígena, según el informe 066-CI-01153?",
+    "answer": "El informe identifica tensiones entre la Jurisdicción Especial para la Paz y la jurisdicción indígena, señalando que las normas del Acuerdo de Paz han limitado la autonomía de la justicia indígena. La Corte Constitucional advirtió que al no realizar consulta previa, se vulneró el fuero especial de los pueblos indígenas, generando conflictos sobre competencias y reconocimiento de su identidad jurídica y cultural.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El Acuerdo Final, en el Capítulo Étnico, dispone que en la interpretación e implementación del Acuerdo, se debe tener en cuenta [...] la autonomía y el gobierno propio, [...] la identidad e integridad social, económica y cultural, [...] el derecho a la restitución y fortalecimiento de su territorialidad, [...] así como el carácter principal y no subsidiario de la consulta previa libre e informada y el derecho a la objeción cultural como garantía de no repetición.",
+    "question": "¿Qué dice este informe 066-CI-01153 Acta de la mesa permanente de concertación con los pueblos y organizaciones indígenas sobre las causas estructurales del conflicto armado y sus recomendaciones para la no repetición?",
+    "answer": "El informe señala como causas estructurales del conflicto la histórica vulneración de la autonomía, territorialidad y derechos culturales de los pueblos indígenas. Recomienda como medidas de no repetición garantizar el respeto a la consulta previa, el fortalecimiento de sus formas de gobierno propio y el reconocimiento de su identidad étnica como elementos centrales para una paz duradera.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe destaca avances en la política pública de víctimas, reincorporación de excombatientes, restitución de tierras, desarrollo rural y sustitución de cultivos ilícitos. Se reportan más de 228.000 indemnizaciones individuales, más de 1.800.000 atenciones humanitarias y el fortalecimiento de 130 sujetos de reparación colectiva. En cuanto a la reincorporación, se aprobaron más de 2.200 proyectos productivos individuales y 86 colectivos. La restitución de tierras avanzó con más de 1.700 sentencias y 1.500 proyectos productivos. Se impulsaron planes de desarrollo rural y se beneficiaron más de 99.000 familias con el PNIS.",
+    "question": "¿Cuáles son los hallazgos principales del informe 066-CI-01172 Informe de gestión paz con legalidad: Agosto 2018 - diciembre 2020. 28 meses sobre el conflicto armado colombiano?",
+    "answer": "El informe señala como principales hallazgos el avance en la atención a víctimas del conflicto armado, la reincorporación económica y social de excombatientes, la restitución de tierras a campesinos y comunidades étnicas, la implementación de proyectos productivos y de desarrollo rural, y la sustitución voluntaria de cultivos ilícitos, todos como parte de la estrategia de Paz con Legalidad.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "",
+    "question": "¿Qué dice este informe 066-CI-01172 Informe de gestión paz con legalidad: Agosto 2018 - diciembre 2020. 28 meses sobre las causas estructurales del conflicto armado y sus recomendaciones para la no repetición?",
+    "answer": "No tengo contexto para contestar esa pregunta",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "A nivel nacional, se han entregado 1.813.736 atenciones humanitarias a hogares víctimas de desplazamiento forzado incluidas en el Registro Único de Víctimas (RUV), con una inversión cercana a los $1.15 billones (USD 302.3 M), con los cuales se han atendido alrededor de 910.000 hogares de víctimas. Además, se otorgaron 228.104 indemnizaciones individuales (administrativas y judiciales) con una inversión superior a $1.89 billones (USD 498M).",
+    "question": "¿Qué acciones de reparación individual se realizaron para las víctimas del desplazamiento forzado según el informe?",
+    "answer": "El informe reporta más de 1.8 millones de atenciones humanitarias y la entrega de 228.104 indemnizaciones individuales a víctimas del desplazamiento forzado, con una inversión combinada de más de $3 billones de pesos colombianos.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "En el gobierno del presidente Iván Duque y en 293 municipios se han proferido 1.717 sentencias de restitución de tierras, mediante las cuales se resolvieron 2.989 solicitudes que ampararon un total de 8.798 personas.",
+    "question": "¿Cuántas sentencias de restitución de tierras se emitieron durante el gobierno de Iván Duque y a cuántas personas beneficiaron?",
+    "answer": "Durante el gobierno de Iván Duque se emitieron 1.717 sentencias de restitución de tierras que beneficiaron a 8.798 personas afectadas por el conflicto armado.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "A 31 de diciembre de 2020 se han realizado 34 reuniones del Centro Integrado de Información (CI2DES) para fortalecer las medidas de seguridad, incluyendo 272 esquemas de protección implementados. Además, se han adoptado 52 medidas de seguridad, de las cuales 12 están finalizadas, 23 en ejecución continua y 17 en ejecución inicial. Estas medidas buscan proteger a excombatientes, sus familias y miembros del nuevo partido político derivado del proceso de paz.",
+    "question": "¿Qué medidas de seguridad se implementaron para proteger a los excombatientes en proceso de reincorporación?",
+    "answer": "Se implementaron 272 esquemas de protección y 52 medidas específicas para garantizar la seguridad de excombatientes en proceso de reincorporación, incluyendo acciones coordinadas con la UNP, el Ejército y la Policía para su protección integral.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "La Corte Constitucional mediante la Sentencia T-025 de 2004, declaró un estado de cosas inconstitucional en relación con la garantía de los derechos fundamentales de la población desplazada a causa del conflicto armado en Colombia. Mediante los Autos 004 y 005 de 2009, la Corte identificó una serie de factores comunes relacionados con el conflicto armado, el desplazamiento y el confinamiento de los grupos étnicos, especialmente indígenas y afrocolombianos. Entre las afectaciones a los pueblos indígenas se incluyen confrontaciones armadas en sus territorios, procesos bélicos que los involucran directamente y dinámicas territoriales y socioeconómicas asociadas al conflicto. En el caso de las comunidades afrocolombianas, se identifican la exclusión estructural, el despojo territorial derivado de procesos económicos y la débil protección institucional. A través de estos autos, la Corte ordenó la creación de planes de salvaguarda para más de 100 pueblos étnicos, destacando la amenaza de extinción física y cultural.",
+    "question": "¿Cuáles son los hallazgos principales del informe 066-CI-01173 Informe defensorial: el posacuerdo en los territorios étnicos sobre el conflicto armado colombiano?",
+    "answer": "El informe destaca que el conflicto armado ha impactado desproporcionadamente a los pueblos étnicos, especialmente indígenas y afrocolombianos, generando desplazamiento forzado, despojo territorial y riesgo de desaparición física y cultural. Se reconocen fallas en la protección institucional y se exigen planes de salvaguarda para garantizar sus derechos colectivos.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "Uno de los aspectos estructurales del conflicto en Colombia ha sido la marcada inequidad en el desarrollo del campo, reflejada en la concentración de la tierra y la ausencia del Estado en zonas rurales. En los territorios étnicos, este abandono se traduce en falta de acceso a salud, educación, infraestructura y asistencia técnica. El informe resalta que esta situación ha forzado el desplazamiento de comunidades étnicas. El Acuerdo de Paz, mediante la Reforma Rural Integral (RRI), plantea mecanismos para resolver estas causas estructurales, como acceso a tierras, protección jurídica del territorio y fortalecimiento de los planes de vida y etnodesarrollo. El informe recomienda incluir a los pueblos étnicos en todas las decisiones relacionadas con su territorio y garantizar el cumplimiento de los compromisos del capítulo étnico.",
+    "question": "¿Qué dice este informe 066-CI-01173 Informe defensorial: el posacuerdo en los territorios étnicos sobre las causas estructurales del conflicto armado y sus recomendaciones para la no repetición?",
+    "answer": "El informe identifica como causa estructural del conflicto la histórica exclusión del campo y los territorios étnicos por parte del Estado. Recomienda garantizar acceso a tierras, reconocimiento de los territorios ancestrales, y participación activa de las comunidades étnicas en la implementación del Acuerdo de Paz, especialmente en los PDET y la Reforma Rural Integral, para prevenir nuevas formas de violencia y asegurar la no repetición.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe dedica un acápite al pueblo Nukak, ubicado en el departamento del Guaviare. Se indica que esta comunidad ha sido priorizada en el Acuerdo de Paz debido a su grave situación humanitaria causada por el conflicto armado y el desplazamiento forzado en su territorio. Los Nukak, por su reducido número de miembros, enfrentan una amenaza de extinción física y cultural. El Estado tiene el reto de garantizar sus derechos y su participación en la construcción de paz territorial.",
+    "question": "¿Qué pueblo indígena fue señalado en el informe por enfrentar una grave situación humanitaria debido al conflicto armado y el desplazamiento?",
+    "answer": "El pueblo Nukak fue señalado por enfrentar una situación humanitaria crítica, agravada por el desplazamiento forzado y el conflicto armado. El informe resalta que esta comunidad está en riesgo de extinción y debe ser priorizada en la implementación del Acuerdo de Paz para salvaguardar sus derechos.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "La Corte Constitucional, mediante el Auto 004 de 2009, reconoció que 36 pueblos indígenas se encontraban en peligro de extinción física y cultural debido al conflicto armado. Ordenó al Gobierno Nacional la creación de un 'Programa de Garantía de los Derechos de los Pueblos Indígenas Afectados por el Desplazamiento' y la formulación de Planes de Salvaguarda Étnica para cada uno de los pueblos identificados. Posteriormente, también se implementaron Planes de Acción Urgente para comunidades como los Awa, Jiw, Nukak, Hitnü y Makaguan.",
+    "question": "¿Qué decisiones tomó la Corte Constitucional para proteger a los pueblos indígenas afectados por el conflicto armado según el informe?",
+    "answer": "La Corte Constitucional ordenó la creación de programas y planes de salvaguarda étnica para proteger a pueblos indígenas en riesgo por el conflicto armado, como medida para garantizar su supervivencia y el respeto a sus derechos colectivos.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe señala que la consulta previa es un derecho fundamental de los pueblos étnicos, consagrado en el Convenio 169 de la OIT y parte del bloque de constitucionalidad en Colombia. Este derecho debe garantizarse especialmente durante la implementación del Acuerdo de Paz, respetando principios como la buena fe, el consentimiento previo, libre e informado, y la participación mediante instituciones representativas. El informe también advierte sobre preocupaciones por la vulneración de este derecho en algunas acciones del Estado.",
+    "question": "¿Qué mecanismos propone el informe para garantizar el derecho a la participación y consulta previa de los pueblos étnicos durante el posacuerdo?",
+    "answer": "El informe propone que la implementación del Acuerdo de Paz garantice el derecho a la consulta previa y participación de los pueblos étnicos, a través de mecanismos respetuosos de su autonomía, identidad y decisiones, en cumplimiento del Convenio 169 de la OIT y la legislación colombiana.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "En Colombia, seguimos hablando de la existencia de al menos cinco conflictos armados no internacionales, cuyos actores continúan afectando la dignidad y la vida de la población civil. Las amenazas, los homicidios, los tratos crueles e inhumanos, la violencia sexual, las agresiones contra la Misión Médica, la destrucción o afectación de bienes civiles, el reclutamiento y uso de menores, las desapariciones y no tomar medidas de precaución contra los efectos de los ataques entre quienes participan en las hostilidades fueron otras violaciones de las normas humanitarias presuntamente cometidas por todos los actores armados.",
+    "question": "¿Cuáles son los hallazgos principales del informe 066-CI-01215 Retos humanitarios 2021 Colombia sobre el conflicto armado colombiano?",
+    "answer": "El informe documenta la persistencia de múltiples conflictos armados no internacionales en Colombia y resalta violaciones graves al Derecho Internacional Humanitario, incluyendo desplazamientos forzados, violencia sexual, desapariciones forzadas, reclutamiento de menores y ataques a la Misión Médica. Estas violaciones son atribuidas a todos los actores armados en diversas regiones del país.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "La presencia de las instituciones del Estado continúa siendo débil en las zonas más afectadas por el conflicto. Sumada a los efectos de la pandemia y al deterioro de la situación humanitaria, esta realidad crea un contexto difícil respecto de las condiciones de vida y de seguridad de la población civil. [...] Hacemos un llamado a la Fuerza Pública y a todos los grupos armados para que respeten a los civiles y los protejan de los efectos de las hostilidades. Exhortamos al Estado a fortalecer su capacidad institucional para asegurar que todas las víctimas del conflicto y la violencia armada tengan acceso a las rutas de atención estatal, incluyendo atención psicosocial y apoyo económico.",
+    "question": "¿Qué dice este informe 066-CI-01215 Retos humanitarios 2021 Colombia sobre las causas estructurales del conflicto armado y sus recomendaciones para la no repetición?",
+    "answer": "El informe identifica como causa estructural del conflicto la débil presencia estatal en territorios afectados, lo cual agrava las condiciones de vida y seguridad de la población civil. Recomienda fortalecer la institucionalidad del Estado, mejorar el acceso de las víctimas a servicios y rutas de atención, y garantizar el respeto a los derechos humanos por parte de todos los actores armados para evitar la repetición de hechos violentos.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "Desde la entrada en vigor del Acuerdo de Paz hasta el 31 de diciembre del año pasado, registramos 571 nuevas desapariciones relacionadas con el conflicto y la violencia armada. Arauca, Norte de Santander, Nariño, Cauca, Antioquia y Chocó fueron los departamentos más afectados. Según nuestros reportes, todos los actores armados continúan usando la desaparición para atemorizar a la población civil, con el fin de mantener el control del territorio o por no dar un trato digno a los cadáveres.",
+    "question": "¿Qué hechos documentados sobre desaparición forzada reporta el informe 066-CI-01215 durante 2020?",
+    "answer": "El informe reporta 571 nuevas desapariciones forzadas en 2020 vinculadas al conflicto armado, principalmente en Arauca, Norte de Santander, Nariño, Cauca, Antioquia y Chocó. Señala que todos los actores armados utilizan esta práctica para intimidar a la población y mantener control territorial, así como para negar un trato digno a los cadáveres.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "En 2020, registramos 389 víctimas de artefactos explosivos, el número más alto de los últimos cuatro años. La mayoría de las víctimas son civiles, principalmente población campesina, que tropezó con estos artefactos al realizar labores cotidianas. [...] El fenómeno se ha extendido a zonas donde se pensaba que ya no existía el riesgo. La contaminación se debe tanto a remanentes del pasado como a nueva colocación de artefactos en contextos de confrontación armada.",
+    "question": "¿Qué reporta el informe 066-CI-01215 sobre el uso de artefactos explosivos en el conflicto armado colombiano durante 2020?",
+    "answer": "El informe señala que en 2020 hubo 389 víctimas de artefactos explosivos, siendo el mayor número en cuatro años. Las principales afectadas fueron comunidades campesinas. Este fenómeno, alimentado tanto por remanentes del conflicto como por nueva colocación de explosivos, se extendió a regiones donde se consideraba superado, revelando la persistencia del riesgo.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "919 víctimas de violencia sexual recibieron apoyo, orientación, atención en salud física y mental, y asistencia en emergencias y generación de ingresos. Esta atención estuvo dirigida a personas afectadas por el conflicto armado, evidenciando que este tipo de violencia continúa siendo una grave consecuencia del mismo.",
+    "question": "¿Qué denuncia el informe 066-CI-01215 sobre violencia sexual relacionada con el conflicto armado en Colombia?",
+    "answer": "El informe denuncia que la violencia sexual sigue siendo una consecuencia grave del conflicto armado. En 2020, se brindó atención a 919 víctimas, quienes recibieron apoyo físico, psicológico y económico. Esta cifra revela la persistencia de esta forma de violencia en los territorios afectados por la confrontación armada.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "En total, producto de las tres fases de intervención del cementerio, el Instituto recibió 66 contenedores, a la fecha se ha logrado la individualización de 48 cuerpos. En la Fase III, se identificó un mínimo de 16 individuos, de los cuales 6 presentaban lesiones por proyectil de arma de fuego, uno por mecanismo cortante, uno por mecanismo de alta energía y 7 sin trauma observable. Las edades de las víctimas oscilaban principalmente entre los 13 y 49 años. Se procesaron muestras genéticas y se están cotejando perfiles con familiares de referencia.",
+    "question": "¿Cuáles son los hallazgos principales del informe 066-CI-01216 Informe cementerio Las Mercedes Dabeiba Antioquia sobre el conflicto armado colombiano?",
+    "answer": "El informe documenta la recuperación e individualización de cuerpos en el Cementerio Las Mercedes, donde varias víctimas presentaban lesiones atribuibles a violencia armada. Se adelantan análisis genéticos para identificar los restos y permitir su entrega digna a familiares, en el marco de la búsqueda de desaparecidos del conflicto armado.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "Los análisis forenses de la Fase III permitieron establecer un mínimo preliminar de 16 individuos. De estos, 6 presentaban lesiones por proyectil de arma de fuego, uno por mecanismo cortante, uno por mecanismo de alta energía, y en 7 no se observaron traumas. Estas evidencias sugieren posibles ejecuciones u homicidios relacionados con el conflicto armado.",
+    "question": "¿Qué casos de violencia documenta el informe 066-CI-01216 en las fosas del Cementerio Las Mercedes de Dabeiba?",
+    "answer": "El informe documenta posibles casos de ejecuciones extrajudiciales, con cuerpos que presentan lesiones por proyectil de arma de fuego y otros mecanismos violentos, hallados en fosas del Cementerio Las Mercedes, presuntamente víctimas del conflicto armado en Colombia.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "A partir de las intervenciones, se han procesado 66 contenedores con restos óseos y se han individualizado 48 cuerpos. Se han obtenido múltiples perfiles genéticos, y se continúan los cotejos con muestras de familiares. En la jornada de noviembre de 2020, se recolectaron 151 muestras biológicas de referencia, todas procesadas e ingresadas al Banco de Perfiles Genéticos de Desaparecidos.",
+    "question": "¿Qué avances ha habido en la identificación de los cuerpos exhumados en el Cementerio Las Mercedes según el informe 066-CI-01216?",
+    "answer": "El informe señala avances significativos en la identificación forense, incluyendo la obtención de perfiles genéticos y cotejos con familiares. Esto permite avanzar en la búsqueda de desaparecidos y en la entrega digna de restos a sus seres queridos.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe no incluye testimonios individuales ni relatos de familiares o testigos. Se centra en los resultados de análisis forenses de los cuerpos exhumados, incluyendo edad, sexo, tipo de lesiones y procesamiento genético.",
+    "question": "¿Qué testimonios o eventos específicos documenta el informe sobre las víctimas halladas en Dabeiba?",
+    "answer": "No tengo contexto para contestar esa pregunta",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "",
+    "question": "¿Qué dice este informe 066-CI-01216 Informe cementerio Las Mercedes Dabeiba Antioquia sobre las causas estructurales del conflicto armado y sus recomendaciones para la no repetición?",
+    "answer": "No tengo contexto para contestar esa pregunta",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe 066-CI-01217 documenta que los asesinatos de personas defensoras, líderes sociales y excombatientes en regiones como Norte del Cauca, Urabá antioqueño, Bajo Atrato chocoano, sur de Córdoba y Bajo Cauca antioqueño presentan patrones sistemáticos. Señala la participación de actores armados ilegales, la estigmatización como práctica común, y la limitada respuesta estatal en investigación y sanción. Se destacan también los contextos de alta conflictividad por la tierra, la presencia de economías ilegales y la continuidad de la violencia incluso después del Acuerdo Final de Paz. El 90% de los homicidios ocurrieron en municipios afectados por pobreza, debilidad institucional y presencia de cultivos ilícitos.",
+    "question": "¿Cuáles son los hallazgos principales del informe 066-CI-01217 Sistematicidad, estigmatización y precarios avances en materia de investigación, juzgamiento y sanción: patrones en el asesinato de las personas defensoras, líderes, lideresas sociales y excombatientes en los territorios de Norte del Cauca; Urabá antioqueño y Bajo Atrato chocoano; sur de Córdoba; Nordeste y Bajo Cauca antioqueño sobre el conflicto armado colombiano?",
+    "answer": "Los principales hallazgos del informe son la sistematicidad de los crímenes contra personas defensoras y excombatientes, la estigmatización como mecanismo previo al asesinato, y la falta de avances significativos en investigación y sanción. El informe también resalta el papel de actores armados ilegales y el contexto estructural de desigualdad y disputa territorial, lo cual perpetúa las violencias incluso después del Acuerdo de Paz.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "En el Norte del Cauca, el informe destaca conflictos históricos por la tierra, especialmente entre comunidades indígenas y empresas cañeras, así como la represión violenta por parte del Ejército, la Policía y guardias privadas. También se identificó la presencia de disidencias de las FARC-EP que ejercen control territorial y toman represalias contra comunidades que se oponen a los cultivos ilícitos. La región ha sido escenario de asesinatos sistemáticos, especialmente de líderes indígenas, políticos y comunales, con una alta concentración de casos en Caloto, Corinto y Suárez.",
+    "question": "¿Qué factores explican la violencia contra líderes sociales y excombatientes en el Norte del Cauca, según el informe?",
+    "answer": "La violencia en el Norte del Cauca está explicada por conflictos históricos de tierras, presencia de actores armados ilegales y represión estatal. Los líderes sociales, especialmente indígenas y miembros de organizaciones políticas, han sido blanco de asesinatos en un contexto de disputa territorial y control por parte de disidencias armadas.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "En esta región, el informe documenta asesinatos relacionados con disputas por la tierra, procesos de restitución y control ejercido por el grupo narcoparamilitar Autodefensas Gaitanistas de Colombia (AGC). Se registraron asesinatos de líderes comunales, excombatientes y defensores de la restitución de tierras. Un hecho destacado fue el ataque con explosivos el 11 de abril de 2018 contra una patrulla que escoltaba a funcionarios de la URT, dejando ocho policías muertos. Los asesinatos buscan forzar el abandono de procesos de reclamación de tierras.",
+    "question": "¿Qué hechos documenta el informe sobre la región del Urabá antioqueño y Bajo Atrato chocoano en relación con el asesinato de líderes sociales?",
+    "answer": "El informe evidencia que en el Urabá antioqueño y Bajo Atrato chocoano los asesinatos de líderes están ligados a la oposición de grupos armados ilegales, como las AGC, a los procesos de restitución de tierras. También documenta un ataque con explosivos contra una patrulla que escoltaba a funcionarios de restitución, reflejando el alto riesgo de quienes participan en esos procesos.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe señala que los excombatientes asesinados no solo eran firmantes del Acuerdo de Paz, sino que también ejercían roles de liderazgo en comunidades, como en Juntas de Acción Comunal o movimientos campesinos. Su condición de excombatientes, sumada a sus actividades sociales y políticas, aumentaba el riesgo de ser blanco de violencia. Estos asesinatos ocurrieron en zonas con escasa presencia estatal y alta disputa territorial entre actores armados.",
+    "question": "¿Qué patrones comunes se identifican en los asesinatos de excombatientes de las FARC-EP?",
+    "answer": "Los asesinatos de excombatientes siguen un patrón de sistematicidad donde se combinan su condición de firmantes del Acuerdo de Paz con su liderazgo comunitario. Esta combinación los convierte en objetivos de estructuras armadas ilegales, especialmente en regiones con débil institucionalidad y conflicto territorial.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe identifica como causas estructurales la disputa territorial, la presencia de economías ilegales, la ausencia del Estado en materia de derechos y garantías, y la estigmatización de líderes sociales. Recomienda garantizar protección efectiva a personas defensoras y excombatientes, aplicar de forma completa el Acuerdo Final de Paz, incorporar múltiples fuentes de información en la investigación de homicidios, y reactivar instancias como la Unidad de Desmonte del Paramilitarismo. También llama a cesar la estigmatización mediante discursos oficiales que vinculan a defensores con actores armados.",
+    "question": "¿Qué dice este informe 066-CI-01217 sobre las causas estructurales del conflicto armado y sus recomendaciones para la no repetición?",
+    "answer": "El informe señala que la violencia se origina en causas estructurales como la desigualdad territorial, la falta de presencia estatal y la estigmatización de quienes defienden derechos. Propone como recomendaciones clave la implementación integral del Acuerdo de Paz, garantías de seguridad para líderes y excombatientes, y el desmonte efectivo de grupos narcoparamilitares para prevenir la repetición de los crímenes.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe evidencia un preocupante incremento del 30% en los homicidios de defensores y defensoras de derechos humanos en comparación con el mismo periodo de 2016. Señala que, tras el acuerdo de paz con las FARC, persiste una violencia focalizada contra líderes sociales, especialmente en zonas rurales. Resalta la falta de una protección estatal efectiva, la escasa prevención y el mínimo avance en las investigaciones por parte de la Fiscalía General. También se hace un llamado urgente a impulsar la Comisión Nacional de Garantías de Seguridad para desmantelar estructuras armadas ilegales.",
+    "question": "¿Cuáles son los hallazgos principales del informe 066-CI-01235 Agúzate ¡Que nos están matando!: Informe enero - junio de 2017 sobre el conflicto armado colombiano?",
+    "answer": "El informe denuncia el aumento de la violencia contra líderes sociales tras el acuerdo con las FARC, resalta la ineficacia del Estado en su protección y llama a implementar políticas estructurales como el fortalecimiento de la Comisión de Garantías de Seguridad.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe identifica como causas estructurales del conflicto la desigualdad territorial, la exclusión política y la falta de garantías para el ejercicio del liderazgo social. Recomienda fortalecer la Comisión Nacional de Garantías de Seguridad, diseñar políticas públicas para el desmonte del paramilitarismo y mejorar las investigaciones judiciales sobre crímenes contra defensores. También propone avanzar en mecanismos de autoprotección política y cuidado mutuo entre activistas ante la débil respuesta del Estado.",
+    "question": "¿Qué dice este informe 066-CI-01235 Agúzate ¡Que nos están matando!: Informe enero - junio de 2017 sobre las causas estructurales del conflicto armado y sus recomendaciones para la no repetición?",
+    "answer": "El informe señala que la falta de garantías para el liderazgo social y la persistencia del paramilitarismo son causas del conflicto. Recomienda fortalecer políticas de seguridad, impulsar investigaciones judiciales y fomentar la autoprotección de defensores.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "José Yimer Cartagena Úsuga, vicepresidente de Asodecas, fue secuestrado el 10 de enero de 2017 y hallado muerto con signos de tortura. Había recibido amenazas por su labor en defensa del proceso de paz y en la zona existían alertas tempranas sobre riesgos contra líderes sociales que no fueron atendidas. El informe denuncia la inacción de las autoridades ante la advertencia del riesgo.",
+    "question": "¿Qué sucedió con José Yimer Cartagena Úsuga según el informe 066-CI-01235?",
+    "answer": "José Yimer Cartagena Úsuga fue asesinado tras ser torturado. Era líder campesino y defensor del proceso de paz. Su muerte ocurrió pese a alertas tempranas ignoradas por las autoridades, lo que evidencia la desprotección estatal.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "Yoryanis Isabel Bernal Varela, líder de la comunidad indígena Wiwa y defensora de los derechos de la mujer, fue asesinada el 26 de enero de 2017 en Valledupar. Había denunciado amenazas e intimidaciones previas contra su comunidad. La líder era reconocida por su trabajo con mujeres indígenas y por su activismo social.",
+    "question": "¿Qué hechos documenta el informe 066-CI-01235 sobre el asesinato de Yoryanis Isabel Bernal Varela?",
+    "answer": "El informe registra el asesinato de Yoryanis Isabel Bernal, defensora indígena Wiwa, ocurrido en Valledupar. Denuncia amenazas previas a su comunidad y su compromiso con la defensa de los derechos de las mujeres indígenas.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "Gerson Acosta, autoridad indígena del pueblo Nasa y defensor de derechos humanos, fue asesinado el 19 de abril de 2017 en Timbío, Cauca. Contaba con medidas de protección, pero estas no se ejecutaron al momento del crimen. Era representante de víctimas de la masacre del Naya y líder del proceso de reconocimiento del resguardo Kitek Kiwe.",
+    "question": "¿Qué ocurrió con Gerson Acosta según el informe 066-CI-01235?",
+    "answer": "Gerson Acosta fue asesinado pese a tener medidas de protección. Era autoridad indígena y representante de víctimas de la masacre del Naya. Su asesinato refleja la continuidad de ataques a líderes sociales en el contexto del posconflicto.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe documenta que entre 2003-2004 y 2007-2008, unidades militares del Ejército Nacional, específicamente el Batallón de Artillería No. 4 Jorge Eduardo Sánchez Rodríguez (BAJES) y la Brigada XIV, ejecutaron al menos 121 casos de ejecuciones extrajudiciales en el Oriente, Nordeste y Magdalena Medio antioqueño. Estas acciones se enmarcan en una práctica sistemática y generalizada que consistió en asesinar a civiles, especialmente campesinos, y presentarlos como bajas en combate. Se emplearon tácticas como simulación de combates, falsificación de documentos operacionales y siembra de armas. Las víctimas fueron estigmatizadas como enemigos internos, y la estructura jerárquica del Ejército permitió que estos crímenes se perpetraran bajo una cadena de mando organizada.",
+    "question": "¿Cuáles son los hallazgos principales del informe 066-CI-01240 La responsabilidad del 'hombre de atrás' en ejecuciones extrajudiciales: análisis de casos del Oriente, Nordeste y Magdalena Medio antioqueño sobre el conflicto armado colombiano?",
+    "answer": "El informe concluye que las ejecuciones extrajudiciales en estas regiones de Antioquia fueron sistemáticas y constituyen crímenes de lesa humanidad. Identifica como responsables tanto a los ejecutores materiales como a los altos mandos militares, y denuncia el uso de incentivos como ascensos y recompensas para motivar estas prácticas. Se resalta la connivencia institucional y el impacto devastador sobre las víctimas, sus familias y comunidades.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe detalla que el Teniente Coronel (r) Juan Carlos Barrera Jurado comandó tanto el Batallón BAJES (2003-2004) como la Brigada XIV (2007-2008), y en ambos periodos se reportaron numerosas ejecuciones extrajudiciales. En ambos casos se evidencia un patrón de comportamiento repetido, con prácticas como la planeación de operaciones falsas, la coacción a subordinados y la manipulación de reportes. La autoría mediata en aparatos organizados de poder permite atribuir responsabilidad a los altos mandos que impartieron órdenes o permitieron estas prácticas dentro de una estructura jerárquica.",
+    "question": "¿Qué casos documentados en el informe 066-CI-01240 evidencian la participación directa de altos mandos del Ejército en las ejecuciones extrajudiciales?",
+    "answer": "Uno de los principales hallazgos del informe es la responsabilidad penal del Teniente Coronel Juan Carlos Barrera Jurado, quien comandó las unidades implicadas en los crímenes. Se le atribuye la planeación y ejecución de una estrategia sistemática de asesinatos, encubiertos como bajas en combate, evidenciando su rol como autor mediato dentro de un aparato organizado de poder.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe documenta daños individuales, familiares y colectivos, derivados de las ejecuciones extrajudiciales. Las víctimas directas fueron campesinos estigmatizados y ejecutados por el Ejército. Sus familias sufrieron desplazamiento forzado, trauma psicosocial, revictimización en la búsqueda de justicia y pérdida de sustento. Las comunidades fueron afectadas en su tejido social, liderazgo comunitario y participación política. El informe propone medidas de reparación integral como reconocimiento público, rehabilitación psicosocial, restitución de derechos, garantías de no repetición y reparación colectiva.",
+    "question": "¿Qué tipo de impactos sobre las víctimas y sus comunidades identifica el informe 066-CI-01240 y qué propuestas de reparación integral plantea?",
+    "answer": "El informe identifica que las ejecuciones extrajudiciales generaron daños multidimensionales a las víctimas y sus comunidades. Propone como reparación integral el reconocimiento público de responsabilidad, medidas psicosociales, restitución de derechos y garantías de no repetición, en coherencia con el enfoque del Acuerdo de Paz.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe resalta que las ejecuciones extrajudiciales se desarrollaron en contextos marcados por conflictos territoriales relacionados con intereses económicos estratégicos como la generación de energía, minería, y agroindustria, además de la presencia histórica de actores armados ilegales. Denuncia la militarización del territorio como forma de control poblacional y estigmatización de las comunidades campesinas. Como recomendaciones, plantea el desmonte del aparato criminal dentro de las fuerzas armadas, el fortalecimiento de los procesos organizativos comunitarios y la implementación efectiva de las medidas del Acuerdo Final de Paz, en especial las relacionadas con la reparación integral y las garantías de no repetición.",
+    "question": "¿Qué dice este informe 066-CI-01240 La responsabilidad del 'hombre de atrás' en ejecuciones extrajudiciales: análisis de casos del Oriente, Nordeste y Magdalena Medio antioqueño sobre las causas estructurales del conflicto armado y sus recomendaciones para la no repetición?",
+    "answer": "El informe identifica como causas estructurales del conflicto el control militar sobre territorios de interés económico, la estigmatización de comunidades rurales y la falta de presencia institucional legítima. Recomienda desmontar la estructura criminal al interior del Ejército, apoyar las organizaciones comunitarias y garantizar las medidas del Acuerdo de Paz para evitar la repetición de estas violencias.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe identifica patrones comunes en los casos analizados: selección de víctimas en zonas rurales estigmatizadas, simulación de combates, alteración de la escena del crimen, uso de armamento plantado, creación de falsos informes operacionales y encubrimiento institucional. Estos patrones demuestran una práctica sistemática orientada a presentar resultados operacionales y están relacionados con una estructura jerárquica dentro del Ejército, que promovía y recompensaba estas prácticas.",
+    "question": "¿Qué patrones de macrocriminalidad identifica el informe en los casos de ejecuciones extrajudiciales documentados?",
+    "answer": "El informe establece que las ejecuciones extrajudiciales siguieron patrones sistemáticos que incluyen simulación de combates, falsificación de documentos y encubrimiento institucional. Estas prácticas responden a una política de resultados militares que incentivaba el asesinato de civiles y evidencian macrocriminalidad al interior del Ejército.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe revela que en el Urabá antioqueño y el Chocó, las dinámicas del conflicto armado han debilitado severamente la independencia judicial. La presencia de grupos armados ilegales como las AGC, las FARC y el ELN ha generado intimidaciones, amenazas y violencia directa contra operadores judiciales, especialmente en procesos de restitución de tierras. Las condiciones de seguridad limitan el acceso efectivo a la justicia para la población, y los jueces enfrentan presiones no solo de actores armados, sino también desde dentro del sistema judicial. Además, la falta de presencia estatal sostenida, la corrupción administrativa, y la cooptación de instituciones han contribuido a la impunidad y al fortalecimiento de actores ilegales.",
+    "question": "¿Cuáles son los hallazgos principales del informe 066-CI-01273 (In)dependencia Judicial: análisis de riesgo de la justicia en zonas afectadas por el conflicto armado. Informe Urabá antioqueño Chocó sobre el conflicto armado colombiano?",
+    "answer": "El informe destaca que el conflicto armado ha generado riesgos graves para la administración de justicia en el Urabá y el Chocó, donde jueces enfrentan amenazas de grupos armados ilegales. La debilidad institucional, la impunidad y la presión de actores armados y económicos comprometen la independencia judicial y restringen el acceso de las víctimas a mecanismos legales efectivos.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe identifica como causas estructurales del conflicto armado la concentración de la tierra, la ausencia del Estado en zonas periféricas, el abandono institucional, y la alianza entre elites económicas, actores armados y políticos. La explotación ilegal de recursos naturales y la falta de acceso efectivo a la justicia contribuyen a la perpetuación del conflicto. Como recomendaciones, el informe propone fortalecer la presencia institucional, garantizar condiciones de seguridad para operadores judiciales, implementar políticas sostenidas de restitución de tierras, y asegurar el acceso a la justicia para la población víctima.",
+    "question": "¿Qué dice este informe 066-CI-01273 (In)dependencia Judicial: análisis de riesgo de la justicia en zonas afectadas por el conflicto armado. Informe Urabá antioqueño Chocó sobre las causas estructurales del conflicto armado y sus recomendaciones para la no repetición?",
+    "answer": "Las causas estructurales del conflicto incluyen el abandono estatal, la concentración de tierras, la corrupción y la connivencia entre élites económicas y grupos armados. El informe recomienda garantizar seguridad a operadores judiciales, fortalecer la institucionalidad y asegurar acceso efectivo a la justicia para prevenir la repetición de violencias.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "Los jueces de restitución de tierras en el norte del Urabá antioqueño enfrentan altos riesgos debido a la presencia de las AGC y a la posesión de predios despojados por exparamilitares como alias 'Monoleche'. La falta de condiciones de seguridad ha impedido la realización de inspecciones judiciales y ha provocado ataques a comisiones, como el asesinato de ocho policías en abril de 2018 en la vereda El Tomate. Estas condiciones han frenado el avance de los procesos y han expuesto a los operadores judiciales a graves amenazas.",
+    "question": "¿Qué riesgos enfrentan los jueces de restitución de tierras en el norte del Urabá antioqueño según el informe 066-CI-01273?",
+    "answer": "En el norte del Urabá antioqueño, los jueces de restitución de tierras enfrentan amenazas directas de las AGC, ataques armados durante diligencias judiciales y una falta crítica de garantías de seguridad, lo que ha paralizado múltiples procesos de restitución.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "Según el informe, desde los años cincuenta las empresas bananeras han estado implicadas en dinámicas de conflicto, apoyándose en grupos paramilitares para asegurar sus operaciones. Estas alianzas derivaron en desplazamientos forzados, despojo de tierras, violaciones de derechos humanos y cooptación de instituciones estatales. También se documenta cómo estas empresas impusieron condiciones laborales precarias, lo cual generó una estigmatización del sindicalismo y su asociación con la subversión.",
+    "question": "¿Qué papel han jugado las empresas bananeras en el conflicto armado según el informe 066-CI-01273?",
+    "answer": "Las empresas bananeras contribuyeron al conflicto armado mediante alianzas con grupos paramilitares, facilitando el despojo de tierras y la violencia contra comunidades, y manteniendo esquemas laborales injustos que provocaron conflictos con trabajadores y sindicalistas.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe advierte que los medios de comunicación, al reportar sobre capturas y decisiones judiciales, han generado presión indebida sobre jueces, afectando su independencia. Las noticias omiten el análisis jurídico de las decisiones judiciales, promoviendo juicios mediáticos que vulneran la presunción de inocencia. Además, no existe una oficina de comunicación dentro de la Rama Judicial que brinde respaldo a los funcionarios frente a los ataques mediáticos.",
+    "question": "¿Qué relación existe entre los medios de comunicación y la justicia en zonas de conflicto según el informe 066-CI-01273?",
+    "answer": "El informe señala que los medios de comunicación, al omitir contexto jurídico y presionar con juicios mediáticos, afectan la independencia judicial en zonas de conflicto, sin que exista un respaldo institucional que proteja a los jueces de estos ataques.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe destaca que los operadores de justicia en Arauca y Valle del Cauca enfrentan amenazas, injerencias y presiones por parte de bandas criminales y actores armados ilegales, lo cual compromete gravemente la independencia judicial. En Arauca, la influencia de empresas petroleras y grupos armados ha debilitado el sistema judicial, mientras que en el Valle del Cauca persiste la violencia derivada del narcotráfico y estructuras paramilitares. Además, se identifican riesgos estructurales como la provisionalidad en los cargos judiciales, la baja presencia institucional y la falta de esquemas de protección adecuados, lo que agrava la situación de vulnerabilidad de jueces y fiscales.",
+    "question": "¿Cuáles son los hallazgos principales del informe 066-CI-01274 (In)dependencia Judicial: análisis de riesgo de la justicia en zonas afectadas por el conflicto armado. Informe Valle del Cauca y Arauca sobre el conflicto armado colombiano?",
+    "answer": "El informe concluye que la independencia judicial en Arauca y Valle del Cauca está gravemente comprometida por la violencia del conflicto armado, la presencia de actores armados ilegales, el narcotráfico y estructuras criminales. Se resalta la precariedad institucional, las amenazas directas a funcionarios judiciales y la falta de garantías de protección, todo lo cual representa un alto riesgo para la administración de justicia y para los derechos humanos en estas regiones.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "En el Valle del Cauca, operadores judiciales han sido amenazados por bandas criminales como Los Urabeños y los Rastrojos, especialmente en zonas como Tuluá, Trujillo y Bugalagrande. Estas amenazas incluyen intimidaciones verbales y escritas, presencia de grupos armados en diligencias judiciales rurales y ataques selectivos. Además, jueces de restitución de tierras han enfrentado injerencias y hostigamientos por parte de opositores al proceso de restitución, lo que ha retrasado las decisiones judiciales y ha impedido el retorno de víctimas a sus predios.",
+    "question": "¿Qué hechos documentados de violencia contra operadores judiciales se registran en el Valle del Cauca según el informe 066-CI-01274?",
+    "answer": "El informe documenta amenazas, intimidaciones y presencia de actores armados ilegales que han puesto en riesgo la integridad de operadores judiciales en el Valle del Cauca, especialmente en zonas rurales. Se destaca el caso de jueces de restitución de tierras que han sido presionados por grupos criminales y opositores poderosos, lo cual ha obstaculizado el acceso a la justicia y afectado directamente a víctimas del conflicto armado.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe señala que en Arauca existe una relación compleja entre las empresas petroleras, el conflicto armado y la justicia. La servidumbre petrolera ha generado conflictos sociales y ambientales, y en algunos casos ha contribuido a la criminalización de líderes sociales que reclaman derechos. La administración de justicia se ha visto afectada por estas tensiones, ya que operadores judiciales enfrentan presiones tanto de los actores armados como de los poderes económicos vinculados al sector petrolero.",
+    "question": "¿Qué relación identifica el informe entre las empresas petroleras, el conflicto armado y la administración de justicia en Arauca?",
+    "answer": "El informe expone que las empresas petroleras en Arauca han sido un factor de conflicto que ha impactado la administración de justicia. Las disputas por la tierra y la servidumbre han derivado en violencia y criminalización de líderes sociales, generando un entorno de presión sobre jueces y fiscales que limita su independencia judicial.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe indica que municipios como Cali, Cartago, Obando, Guacarí y Roldanillo presentan riesgos de violencia política y social. Se han registrado casos de amenazas contra líderes comunitarios y servidores públicos, así como hechos de reclutamiento forzado de menores por bandas criminales. En zonas como Tuluá y Trujillo operan oficinas de cobro y redes sicariales, lo que incrementa la inseguridad y obstaculiza el trabajo judicial.",
+    "question": "¿Qué eventos de violencia política y social en municipios del Valle del Cauca se describen en el informe 066-CI-01274?",
+    "answer": "En el Valle del Cauca, el informe documenta riesgos de violencia política y social en municipios con alta presencia de crimen organizado. Se evidencian amenazas, reclutamiento forzado de menores y presencia de redes sicariales, lo cual deteriora la seguridad de líderes sociales y operadores judiciales en la región.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe identifica como causas estructurales del conflicto armado en estas regiones la debilidad institucional, la baja presencia del Estado en zonas rurales, la influencia de actores armados ilegales, el narcotráfico y la connivencia entre poderes económicos y estructuras criminales. Como recomendaciones para la no repetición, propone fortalecer la independencia judicial, mejorar los esquemas de protección para funcionarios judiciales, garantizar la presencia efectiva del Estado en los territorios y establecer mecanismos de alerta temprana para prevenir amenazas.",
+    "question": "¿Qué dice este informe 066-CI-01274 (In)dependencia Judicial: análisis de riesgo de la justicia en zonas afectadas por el conflicto armado. Informe Valle del Cauca y Arauca sobre las causas estructurales del conflicto armado y sus recomendaciones para la no repetición?",
+    "answer": "El informe señala que el conflicto armado en Valle del Cauca y Arauca se ha perpetuado por la ausencia del Estado, el control territorial de actores armados y la presión de poderes económicos ilegales. Recomienda fortalecer la institucionalidad, brindar garantías de seguridad a operadores judiciales y asegurar una justicia independiente como vía para prevenir la repetición de la violencia.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe señala que el Acuerdo de Paz colombiano es el primero en el mundo que logra integrar de forma efectiva el enfoque de género, reconociendo los impactos diferenciados y desproporcionados del conflicto armado en las mujeres y personas LBT. Se identificaron 122 medidas de género, de las cuales 109 fueron observadas en términos de su desarrollo normativo y operativo. Si bien el desarrollo normativo alcanzó un 70,64% de avance satisfactorio, el desarrollo operativo fue significativamente menor (14,68%). Las medidas con mayores avances están asociadas a los puntos del acuerdo donde ha habido mayor participación histórica de las mujeres. El informe denuncia que la falta de implementación efectiva responde a obstáculos estructurales como la resistencia institucional, la violencia persistente y la falta de compromiso con la participación equitativa de las mujeres.",
+    "question": "¿Cuáles son los hallazgos principales del informe 066-CI-01310 La paz avanza con las mujeres: observaciones sobre la incorporación del enfoque de género en el acuerdo de paz. Octubre 2018 sobre el conflicto armado colombiano?",
+    "answer": "El informe destaca avances significativos en la inclusión normativa del enfoque de género en el Acuerdo de Paz, pero evidencia una gran brecha en su implementación práctica. Señala obstáculos estructurales como la violencia contra lideresas, la baja capacidad institucional y la falta de voluntad política como causas principales del rezago en la ejecución de las medidas. Recomienda priorizar la participación efectiva de las mujeres y fortalecer el desarrollo operativo mediante acciones afirmativas y estrategias diferenciadas.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe identifica que el conflicto armado colombiano tiene raíces estructurales en desigualdades de género profundas, acentuadas por la guerra. Las organizaciones de mujeres argumentaron que estas desigualdades, junto con la discriminación histórica, han sido factores clave en el origen y prolongación del conflicto. Para evitar la repetición, el informe propone transformar esas estructuras mediante medidas afirmativas, participación activa de mujeres y la incorporación transversal del enfoque de género en la implementación del Acuerdo. Recomienda adoptar planes metodológicos sensibles al género, garantizar la seguridad de lideresas, promover la participación paritaria y reconocer el trabajo de cuidado como elemento central para la equidad.",
+    "question": "¿Qué dice este informe 066-CI-01310 La paz avanza con las mujeres: observaciones sobre la incorporación del enfoque de género en el acuerdo de paz. Octubre 2018 sobre las causas estructurales del conflicto armado y sus recomendaciones para la no repetición?",
+    "answer": "El informe plantea que las causas estructurales del conflicto armado incluyen desigualdades de género históricas. Propone como recomendaciones para la no repetición garantizar la participación efectiva y paritaria de las mujeres, implementar medidas afirmativas con enfoque territorial y diferencial, y reconocer la economía del cuidado como eje para superar la exclusión estructural de las mujeres rurales.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "En el punto sobre Reforma Rural Integral, el informe destaca que muchas medidas de género han tenido un bajo desarrollo operativo debido a barreras estructurales como la falta de jurisdicción agraria, catastro multipropósito e instancias de resolución de conflictos. Aunque se han adoptado normas como el Decreto 902 de 2017 que prioriza a las mujeres en procesos de formalización, en la práctica hay poca implementación. Además, se resalta que la participación de las mujeres en los Programas de Desarrollo con Enfoque Territorial (PDET) ha sido significativa, pero carece de garantías normativas vinculantes.",
+    "question": "¿Qué dice el informe sobre los obstáculos que han enfrentado las mujeres en el acceso a tierras como parte de la reforma rural integral tras el conflicto armado?",
+    "answer": "El informe señala que las mujeres enfrentan serios obstáculos estructurales en el acceso a tierras, como la ausencia de jurisdicción agraria y la falta de implementación del catastro multipropósito. Aunque existen normas que las priorizan, la falta de mecanismos operativos efectivos ha limitado el cumplimiento real de estas medidas.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe documenta que aunque el desarrollo normativo fue significativo en medidas como el Estatuto de la Oposición y la inclusión del enfoque de género en el Consejo Nacional de Paz, el desarrollo operativo fue bajo. Solo el 19,23% de las medidas se ha implementado adecuadamente. Entre las principales dificultades se encuentran la falta de reforma a la ley de participación ciudadana, la inexistencia de garantías para la participación paritaria, y el rezago en mecanismos como presupuestos participativos sensibles al género y Circunscripciones Especiales de Paz.",
+    "question": "¿Qué dice el informe sobre las medidas adoptadas para garantizar la participación política de las mujeres tras el conflicto armado?",
+    "answer": "El informe afirma que hay avances normativos en la participación política de las mujeres, como el reconocimiento de la paridad en el Estatuto de la Oposición, pero denuncia un bajo cumplimiento operativo, evidenciado en la ausencia de reformas legales y mecanismos efectivos que garanticen su participación real y equitativa.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe indica que las medidas relacionadas con la violencia basada en género presentan rezagos importantes en su implementación. En particular, se destaca el aumento de agresiones y asesinatos de defensoras de derechos humanos y lideresas sociales. El Programa Somos Defensores registró un incremento del 49,10% en asesinatos contra personas defensoras entre enero y julio de 2017, y un 14,30% en el caso de las lideresas durante el mismo periodo de 2018. Estas violencias están asociadas al accionar de organizaciones criminales sucesoras del paramilitarismo y a la falta de respuesta institucional eficaz.",
+    "question": "¿Qué tipo de violencias específicas contra mujeres defensoras de derechos humanos se reportan en el informe como parte del contexto del conflicto armado?",
+    "answer": "El informe documenta un aumento alarmante en las agresiones y asesinatos de mujeres defensoras de derechos humanos, señalando una falta de respuesta adecuada por parte del Estado. Estas violencias reflejan la persistencia de estructuras armadas ilegales y la debilidad de las garantías de seguridad para lideresas sociales.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "Desde su fundación, CODHES se ha propuesto contribuir en todas las iniciativas que permitan el cierre del conflicto armado y la construcción de una paz sostenible. Su enfoque ha sido buscar la paz como principio estructural de prevención de las graves crisis humanitarias y como oportunidad para la realización plena de los derechos a la Verdad, la Justicia, la Reparación Integral y el desarrollo de medidas robustas de No Repetición frente a las masivas afectaciones individuales y colectivas que han ocurrido en Colombia. El desplazamiento forzado constituye más del 80 por ciento de las víctimas y la expresión más compleja de la cadena de daños a millones de colombianos y colombianas mayoritariamente procedentes de la sociedad rural.",
+    "question": "¿Cuáles son los hallazgos principales del informe 066-CI-01463 Aportes de la Consultoría para los Derechos Humanos y el Desplazamiento al Sistema Integral de Verdad, Justicia, Reparación y No Repetición - SIVJRNR sobre el conflicto armado colombiano?",
+    "answer": "El informe destaca que el desplazamiento forzado ha sido la principal manifestación de violencia del conflicto armado colombiano, representando más del 80% de las víctimas. CODHES propone la reparación transformadora como enfoque para garantizar los derechos a la verdad, justicia, reparación integral y no repetición.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "La teoría de reparaciones transformadoras plantea que los desplazados provienen en su mayoría de entornos rurales marginados, segregados y discriminados, condiciones estructurales que han sido causa de la reproducción del conflicto armado. Por ello, el informe critica el retorno a condiciones previas al conflicto como solución, y plantea que la reparación debe incluir la transformación de esas condiciones sociales para evitar nuevas trampas de pobreza y vulnerabilidad.",
+    "question": "¿Qué dice este informe 066-CI-01463 Aportes de la Consultoría para los Derechos Humanos y el Desplazamiento al Sistema Integral de Verdad, Justicia, Reparación y No Repetición - SIVJRNR sobre las causas estructurales del conflicto armado y sus recomendaciones para la no repetición?",
+    "answer": "El informe identifica como causas estructurales del conflicto la marginalidad, discriminación y abandono estatal en zonas rurales. Recomienda una reparación transformadora que no solo restituya derechos, sino que transforme esas condiciones estructurales para garantizar la no repetición.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "CODHES ha presentado propuestas normativas, realizado intervenciones ante la Corte Constitucional y promovido el seguimiento ciudadano al Sistema Integral de Verdad, Justicia, Reparación y No Repetición. Ha acompañado técnicamente a la Comisión Étnica y presentado documentos analíticos para incidir en la implementación del acuerdo de paz, en especial en lo relacionado con las víctimas y los enfoques diferenciales.",
+    "question": "¿Qué papel ha jugado CODHES en la implementación del Acuerdo de Paz y en el monitoreo del SIVJRNR?",
+    "answer": "CODHES ha jugado un papel clave en la implementación del acuerdo de paz mediante propuestas normativas, participación en audiencias, seguimiento jurídico al SIVJRNR y acompañamiento técnico a la Comisión Étnica para garantizar los derechos de las víctimas.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "La medición del desplazamiento forzado en Colombia fue durante varios años la principal herramienta de incidencia para el reconocimiento de esta problemática. CODHES institucionalizó el Sistema de Información sobre Desplazamiento Forzado y Derechos Humanos (SISDHES), que visibilizó la magnitud de una tragedia humana derivada de la violación sistemática de los derechos humanos de la población civil, principalmente de pobladores rurales.",
+    "question": "¿Cómo ha contribuido el sistema SISDHES a la visibilización del desplazamiento forzado en Colombia?",
+    "answer": "El sistema SISDHES fue creado por CODHES como una herramienta de monitoreo e incidencia que permitió cuantificar y visibilizar el desplazamiento forzado como una crisis humanitaria y de derechos humanos, influenciando políticas públicas y registros oficiales.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "CODHES propone ampliar el enfoque sobre las causas del desplazamiento, incluyendo impactos del desarrollo, el cambio climático y otras crisis. Además, plantea que Colombia debe consolidarse como un territorio de protección frente a las nuevas olas de migración forzada, fortaleciendo sus capacidades institucionales y adoptando una gobernanza migratoria basada en derechos humanos.",
+    "question": "¿Qué iniciativas propone el informe para enfrentar las nuevas formas de migración forzada en Colombia?",
+    "answer": "El informe propone un enfoque más amplio que reconozca causas diversas del desplazamiento forzado y posiciona a Colombia como territorio de protección, con capacidad de respuesta solidaria y herramientas de gobernanza migratoria ajustadas a los derechos humanos.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe documenta violencias sistemáticas contra personas LGBT en el marco del conflicto armado colombiano, perpetradas por actores armados legales e ilegales. Estas violencias incluyen desplazamientos forzados, violencia sexual, tortura, esclavitud, y homicidios, motivadas por prejuicios hacia la orientación sexual e identidad de género de las víctimas. Se identifican patrones de criminalidad con móviles estratégicos y de control territorial, y se reconoce la impunidad estructural, la complicidad social y la exclusión histórica como factores que facilitaron dichas violencias.",
+    "question": "¿Cuáles son los hallazgos principales del informe 086-CI-00371 ¡Nosotras resistimos!: informe sobre violencias contra personas LGBT en el marco del conflicto armado en Colombia sobre el conflicto armado colombiano?",
+    "answer": "El informe concluye que las personas LGBT fueron víctimas de violencias sistemáticas y diferenciadas en el conflicto armado colombiano, motivadas por prejuicios y con fines estratégicos. Estas violencias incluyeron desplazamientos forzados, violencia sexual y asesinatos, cometidos por actores legales e ilegales. Se identifican la impunidad estructural y la complicidad social como factores claves que permitieron estas violencias.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe presenta múltiples relatos de violencia sexual, como el caso de 'Mariposa', una mujer trans secuestrada y violada en Chigorodó, y otras víctimas obligadas a desnudarse o sometidas a acceso carnal violento. Estas violencias fueron ejercidas como castigo por su orientación sexual o identidad de género, y se enmarcan en patrones de esclavitud, tortura y dominación ejercidos por grupos armados.",
+    "question": "¿Qué casos documentados recoge el informe sobre violencia sexual contra personas LGBT durante el conflicto armado en Colombia?",
+    "answer": "El informe documenta casos como el de 'Mariposa', víctima de secuestro y violencia sexual por parte de actores armados, y otras personas LGBT sometidas a violaciones, humillaciones y tortura debido a su identidad de género. Estas agresiones fueron sistemáticas y utilizadas como mecanismos de control y castigo en el conflicto armado.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe describe que las violencias vividas por personas LGBT generaron impactos profundos como miedo constante, aislamiento, depresión, ansiedad, y trastornos postraumáticos. Muchas víctimas relatan que han perdido la capacidad de sentirse seguras, han sido excluidas por sus familias y comunidades, y han sufrido deterioro de su salud mental, impidiéndoles vivir con libertad y dignidad.",
+    "question": "¿Qué relata el informe sobre el impacto psicosocial de las violencias ejercidas contra personas LGBT durante el conflicto armado?",
+    "answer": "Las violencias causaron impactos psicosociales severos como miedo crónico, aislamiento social, trastornos de ansiedad y trauma. El estigma y la exclusión familiar agravaron estas secuelas, limitando la participación social y el bienestar de las víctimas LGBT del conflicto.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe señala que las causas estructurales del conflicto incluyen la desigualdad histórica, el patriarcado, el racismo, y los sistemas de exclusión y dominación. Las recomendaciones se centran en eliminar prácticas discriminatorias, reconocer los derechos de las personas LGBT, fortalecer la verdad pública, promover la pedagogía ciudadana y garantizar la reparación integral con participación de las víctimas. También se hace énfasis en la transformación cultural y política que erradique el sexismo estructural y la violencia por prejuicio.",
+    "question": "¿Qué dice este informe 086-CI-00371 ¡Nosotras resistimos! sobre las causas estructurales del conflicto armado y sus recomendaciones para la no repetición?",
+    "answer": "El informe identifica desigualdades estructurales, patriarcado y exclusión social como causas del conflicto. Recomienda desnaturalizar los prejuicios, garantizar la participación de las víctimas LGBT en los procesos de verdad y reparación, y transformar las estructuras sociales para evitar la repetición de las violencias.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe destaca experiencias de resistencia como la creación de la Casa Diversa en la Comuna 8 de Medellín, los procesos de reparación colectiva en San Rafael (Antioquia) y la participación activa de personas LGBT en la reconstrucción de memoria y exigencia de justicia. Estas acciones visibilizan las luchas por la dignidad, la verdad y la transformación social desde las voces de quienes sobrevivieron a las violencias.",
+    "question": "¿Qué experiencias de resistencia LGBT en el marco del conflicto armado destaca el informe?",
+    "answer": "El informe resalta resistencias como la Casa Diversa en Medellín, procesos de reparación colectiva en Antioquia, y el liderazgo de personas LGBT en iniciativas de memoria, exigencia de justicia y reconstrucción social en contextos de violencia.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "Desde el 1 de enero de 2009 al 31 de marzo de 2019 fueron asesinadas más de cien mujeres defensoras de derechos humanos, con un incremento del 433,3% en comparación con años anteriores. El informe revela que las lideresas enfrentan afectaciones psicosociales graves, incluyendo trastornos del sueño, ansiedad, aislamiento y pérdida de cohesión comunitaria. Se destaca que muchas de ellas defienden derechos en contextos de alto riesgo relacionados con el conflicto armado, como el acceso a la tierra, el agua y la seguridad en territorios controlados por actores armados.",
+    "question": "¿Cuáles son los hallazgos principales del informe 086-CI-00372 Sintonías corporales: memoria y resistencia de defensoras, un seguimiento a la resolución 1325 sobre el conflicto armado colombiano?",
+    "answer": "El informe destaca el aumento de asesinatos y violencia contra mujeres defensoras de derechos humanos en el contexto del conflicto armado colombiano. Identifica graves afectaciones psicosociales producto de la violencia estructural, directa y cultural. Subraya además la persistencia de riesgos en el escenario posconflicto y la debilidad del Estado para garantizar protección, atención psicosocial y condiciones de seguridad para estas mujeres.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe identifica como causas estructurales del conflicto armado la concentración de tierras, la exclusión social, la desigualdad de género, la militarización de los territorios y la falta de garantías para la participación de las mujeres. En cuanto a recomendaciones, plantea fortalecer los mecanismos de protección con enfoque diferencial, mejorar la atención psicosocial, garantizar la participación política de las mujeres en los procesos de paz, y reformar las instituciones para que respondan efectivamente a las violencias de género y territoriales.",
+    "question": "¿Qué dice este informe 086-CI-00372 Sintonías corporales: memoria y resistencia de defensoras, un seguimiento a la resolución 1325 sobre las causas estructurales del conflicto armado y sus recomendaciones para la no repetición?",
+    "answer": "El informe señala que la raíz del conflicto armado está vinculada con factores estructurales como la desigualdad en el acceso a la tierra, la exclusión de las mujeres, la militarización y el debilitamiento institucional. Recomienda adoptar enfoques diferenciales en los programas de protección, garantizar acceso a salud mental, reconocer el liderazgo de las defensoras y asegurar su participación activa en procesos de construcción de paz para evitar la repetición de hechos violentos.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe documenta el testimonio de defensoras que han sufrido estigmatización, amenazas, desplazamiento forzado y violencia sexual. En particular, se menciona el caso de Ana Fabricia Córdoba, lideresa desplazada por hostigamientos y asesinada en Medellín en 2011. También se destacan relatos de mujeres afrocolombianas que han sido invisibilizadas y violentadas por diversos actores del conflicto, incluyendo actores estatales y armados ilegales.",
+    "question": "¿Qué testimonios documenta el informe sobre agresiones sufridas por defensoras de derechos humanos en contextos de conflicto armado?",
+    "answer": "El informe recoge testimonios de mujeres defensoras que han enfrentado estigmatización, desplazamiento forzado y violencia sexual en el marco del conflicto armado. Estos relatos reflejan la persistente violencia ejercida contra quienes ejercen liderazgo social, y evidencian la falta de garantías para su seguridad, así como la omisión del Estado en protegerlas y reconocer su labor.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe resalta que las defensoras afrocolombianas jugaron un papel clave en la formulación de disposiciones sobre género y raza en el Acuerdo de Paz. Sin embargo, denuncia que la falta de implementación de estas medidas ha dejado a estas mujeres en situaciones de violencia continua. Se menciona el proyecto 'Cuerpos Silenciados' como una iniciativa que visibiliza sus historias de resistencia, como el caso de Inis Mosquera, sobreviviente de la masacre de Bojayá.",
+    "question": "¿Qué papel han desempeñado las mujeres afrocolombianas en el conflicto armado según el informe?",
+    "answer": "Las mujeres afrocolombianas han sido fundamentales en la inclusión de enfoque étnico y de género en el Acuerdo de Paz. No obstante, continúan siendo víctimas de violencia y exclusión. Su papel ha sido clave en la resistencia territorial y en procesos de memoria histórica, pese a la falta de reconocimiento institucional y la persistencia de riesgos en sus comunidades.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe critica la falta de cobertura y presupuesto en programas de atención psicosocial para defensoras. Solo el 20% de las víctimas han accedido a estos servicios, y más de tres millones aún no han sido incluidas. Se señala que los programas existentes no consideran adecuadamente las especificidades territoriales, culturales y de género, lo que genera revictimización y desatención.",
+    "question": "¿Qué dice el informe sobre la atención psicosocial que reciben las defensoras víctimas del conflicto armado?",
+    "answer": "El informe denuncia que la atención psicosocial a defensoras es insuficiente y excluyente. La baja cobertura, la falta de presupuesto y la falta de un enfoque diferencial han dejado a miles de mujeres sin apoyo adecuado, reproduciendo violencias estructurales y aumentando el riesgo de afectaciones mentales en contextos de posconflicto.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe documenta violencias sistemáticas contra personas LGBT cometidas por actores armados legales e ilegales en cinco territorios del país: Arauca, Caquetá, Cauca, Cesar y Magdalena Medio. Estas violencias incluyeron amenazas, torturas, desplazamiento forzado, violencia sexual y asesinatos, con fines de control territorial, disciplinamiento social y reafirmación de órdenes patriarcales. El informe evidencia cómo estas agresiones fueron normalizadas y justificadas por prejuicios contra las orientaciones sexuales e identidades de género diversas, afectando profundamente la vida de las víctimas y su entorno.",
+    "question": "¿Cuáles son los hallazgos principales del informe 086-CI-01164 Entre silencios y palabras. Colección Libros I - VI. sobre el conflicto armado colombiano?",
+    "answer": "El informe concluye que el conflicto armado intensificó las violencias basadas en prejuicio contra personas LGBT, utilizando sus cuerpos como blanco de control y castigo. Estas violencias fueron perpetradas por diversos actores armados con fines estratégicos. Se identificaron patrones sistemáticos de violaciones a los derechos humanos, con impactos psicosociales, físicos, económicos y comunitarios, especialmente en contextos de impunidad y exclusión histórica.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El libro I del informe identifica que la violencia contra personas LGBT en el conflicto armado se sustenta en una estructura sociocultural patriarcal que normaliza la discriminación y legitima la violencia por prejuicio. Esta estructura fue aprovechada por actores armados para ejercer control territorial y disciplinamiento social. En el libro VI, se plantean recomendaciones como el reconocimiento del daño, la inclusión de las personas LGBT en los procesos de verdad, justicia y reparación, la garantía de derechos, y el fortalecimiento de entornos protectores desde una perspectiva interseccional.",
+    "question": "¿Qué dice este informe 086-CI-01164 Entre silencios y palabras. Colección Libros I - VI. sobre las causas estructurales del conflicto armado y sus recomendaciones para la no repetición?",
+    "answer": "El informe señala que las causas estructurales de la violencia incluyen el patriarcado, la heteronormatividad y la exclusión social, que facilitaron violencias contra personas LGBT en el marco del conflicto armado. Para la no repetición, recomienda acciones estatales que reconozcan estos daños, promuevan el acceso a justicia con enfoque diferencial, fortalezcan las redes de apoyo comunitario y garanticen la reparación integral y la participación de las víctimas en la construcción de paz.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe describe múltiples impactos psicosociales en víctimas LGBT, incluyendo miedo crónico, estrés postraumático, depresión, aislamiento, pérdida de autoestima, rupturas familiares, anulación de identidad, consumo de sustancias, pensamientos suicidas y destrucción de proyectos de vida. Estos daños fueron profundizados por el silenciamiento impuesto por los actores armados, la exclusión social y la falta de redes de apoyo.",
+    "question": "¿Qué tipo de impactos psicosociales sufrieron las personas LGBT en el conflicto armado, según el informe?",
+    "answer": "Las personas LGBT sufrieron impactos psicosociales severos como miedo constante, estrés postraumático, aislamiento y pérdida del sentido de vida, derivados de violencias sistemáticas sufridas durante el conflicto. Estas afectaciones comprometieron su salud mental, relaciones personales, identidad y proyectos futuros, en un contexto de impunidad y desprotección institucional.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El libro III del informe documenta que en el Cauca hubo una sistemática persecución contra personas LGBT por parte de actores armados. Se identificaron patrones como amenazas, violencias sexuales, desapariciones, asesinatos y desplazamientos forzados. Estas acciones respondían a estigmas y estereotipos que señalaban a las personas LGBT como desviadas o inmorales, siendo consideradas una amenaza para el control social y territorial de los grupos armados.",
+    "question": "¿Qué patrones de violencia por prejuicio identifica el informe en el departamento del Cauca?",
+    "answer": "En Cauca, el informe identifica un patrón de violencia por prejuicio ejercido por actores armados contra personas LGBT, quienes fueron víctimas de amenazas, agresiones, violencia sexual y desplazamiento forzado. Estas violencias se utilizaron como mecanismos de control territorial y disciplinamiento social, sustentadas en estigmas y prejuicios sobre la diversidad sexual y de género.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "Según el libro V, las personas LGBT en el Magdalena Medio fueron víctimas de violencia sexual, incluyendo violaciones correctivas, esclavitud sexual y amenazas relacionadas con su orientación o identidad de género. Estas violencias provocaron embarazos forzados, trauma psicológico profundo, ruptura de relaciones familiares y desplazamientos. El miedo a denunciar por temor a represalias agravó el aislamiento y el sufrimiento.",
+    "question": "¿Qué tipo de violencias sexuales vivieron las personas LGBT en el Magdalena Medio y qué efectos tuvieron?",
+    "answer": "Las víctimas LGBT en el Magdalena Medio sufrieron violencia sexual como violaciones correctivas y esclavitud, lo que generó embarazos forzados, trauma psicológico severo, aislamiento, ruptura familiar y desplazamiento. El miedo a represalias impidió la denuncia, profundizando la revictimización y el silencio institucional.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe documenta violaciones graves de derechos humanos contra las mujeres durante el conflicto armado en Colombia, incluyendo violencia sexual, desplazamiento forzado, tortura, reclutamiento ilícito, y violencia económica y psicológica. Destaca testimonios de más de 2.300 mujeres recogidos en 14 departamentos, reflejando el impacto desproporcionado sobre sus cuerpos, territorios y proyectos de vida. Además, visibiliza las múltiples formas de resistencia y organización de las mujeres como constructoras de paz, proponiendo una serie de recomendaciones para el reconocimiento, reparación y garantías de no repetición.",
+    "question": "¿Cuáles son los hallazgos principales del informe 086-CI-01277 Construyendo el camino de la convivencia y la reconciliación desde la verdad de las mujeres sobre el conflicto armado colombiano?",
+    "answer": "El informe identifica que las mujeres sufrieron múltiples violencias durante el conflicto armado, incluyendo violencia sexual, desplazamiento forzado, tortura y violencia económica. Reconoce que estas afectaciones fueron agravadas por factores estructurales como la discriminación de género, la exclusión territorial y la desigualdad. También resalta el rol activo de las mujeres en la construcción de paz y propone recomendaciones para garantizar su reparación integral y la no repetición de estas violencias.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe señala como causas estructurales del conflicto armado la desigualdad de género, la exclusión social, la discriminación étnica, y la concentración de la tierra. Recomienda reformar el sistema educativo para incluir la historia del conflicto con enfoque de género, crear estrategias de seguridad con enfoque civil, garantizar acceso a la tierra para las mujeres, y reformar el sistema de justicia para eliminar barreras en el acceso de las mujeres víctimas. También insta al Estado a implementar políticas públicas de igualdad y memoria histórica como mecanismos para prevenir la repetición de las violencias.",
+    "question": "¿Qué dice este informe 086-CI-01277 Construyendo el camino de la convivencia y la reconciliación desde la verdad de las mujeres sobre las causas estructurales del conflicto armado y sus recomendaciones para la no repetición?",
+    "answer": "El informe identifica como causas estructurales del conflicto la exclusión, la discriminación de género y la inequidad territorial. Propone reformas institucionales, educativas y de justicia con enfoque de género e interseccionalidad, así como la garantía de derechos económicos y sociales, para asegurar la no repetición y avanzar hacia una paz estable y duradera.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "Los testimonios recopilados reflejan que la violencia sexual fue utilizada de manera sistemática por actores armados como mecanismo de control, castigo y dominación sobre las mujeres. Se registraron casos de violación, aborto forzado, tortura sexual, amenazas, esclavitud sexual y violencia intrafamiliar. Muchas mujeres fueron violentadas por ser mujeres, por su orientación sexual, o como parte de represalias contra sus comunidades. Estos actos generaron impactos profundos en su salud física, mental y en su vida social y familiar.",
+    "question": "¿Qué patrones de violencia sexual se evidencian en los testimonios recogidos por la Ruta Pacífica de las Mujeres durante el conflicto armado colombiano?",
+    "answer": "El informe evidencia que la violencia sexual fue un patrón recurrente durante el conflicto armado, empleado como forma de tortura y control por actores armados. Incluyó violaciones, abortos forzados, esclavitud sexual y otras formas de violencia, con consecuencias devastadoras para la integridad física, emocional y social de las mujeres víctimas.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe resalta que el desplazamiento forzado afectó gravemente a mujeres campesinas, indígenas y afrodescendientes, al romper sus vínculos territoriales, destruir sus formas de sustento y someterlas a nuevas formas de violencia en los lugares de destino. Muchas de ellas perdieron sus tierras y enfrentaron pobreza extrema, inseguridad alimentaria y falta de acceso a servicios básicos. El testimonio de una mujer en Florencia, Caquetá, refleja el trauma causado por desplazamientos continuos, mientras otras expresan la pérdida de sus medios de vida y su dignidad.",
+    "question": "¿Qué impacto tuvo el desplazamiento forzado en la vida de las mujeres campesinas e indígenas durante el conflicto armado según el informe?",
+    "answer": "El desplazamiento forzado tuvo un impacto devastador en mujeres rurales, indígenas y afrodescendientes, quienes fueron desarraigadas de sus territorios, perdieron sus medios de vida y enfrentaron múltiples formas de violencia y exclusión en los lugares de destino. Esta situación intensificó su vulnerabilidad y rompió sus proyectos de vida.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe destaca múltiples estrategias de resistencia lideradas por mujeres víctimas, tales como la creación de espacios de memoria, proyectos productivos comunitarios, formación educativa, redes de apoyo psicosocial y acciones legales por la verdad y la justicia. Ejemplos como el Salón del Nunca Más en San Blas, Bolívar, o las iniciativas de educación y empoderamiento en Putumayo, muestran cómo las mujeres han sido clave en la reconstrucción del tejido social y en el liderazgo comunitario postconflicto.",
+    "question": "¿Qué formas de resistencia y reconstrucción lideraron las mujeres víctimas del conflicto armado en sus comunidades?",
+    "answer": "Las mujeres víctimas del conflicto lideraron procesos de resistencia a través de la memoria, la educación, la organización comunitaria y la reconstrucción del tejido social. Estas acciones les permitieron transformar el dolor en fuerza colectiva y posicionarse como actoras fundamentales en la construcción de paz en sus territorios.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe 086-CI-01340 documenta que las personas viviendo con VIH y sus organizaciones fueron blanco de múltiples formas de violencia durante el conflicto armado en Colombia. Estas violencias incluyeron desplazamiento forzado, violencia sexual, amenazas, tortura, detenciones arbitrarias, intentos de homicidio y asesinatos, muchas veces justificados con base en prejuicios relacionados con el VIH. Estas acciones fueron perpetradas por diversos actores armados –guerrillas, paramilitares, delincuencia organizada e incluso fuerzas estatales– como parte de estrategias de control territorial y social. El informe concluye que estas violencias constituyen una forma sistemática de persecución y podrían calificarse como crimen de lesa humanidad.",
+    "question": "¿Cuáles son los hallazgos principales del informe 086-CI-01340 VIHdas truncadas: informe sobre violencias contra personas viviendo con VIH y Sida en relación con el conflicto armado de Colombia sobre el conflicto armado colombiano?",
+    "answer": "El informe revela que las personas viviendo con VIH fueron víctimas de violencias sistemáticas en el marco del conflicto armado, incluyendo desplazamientos, amenazas, asesinatos y violencia sexual. Estas violencias, ejecutadas por actores armados con fines de control territorial y social, constituyen una forma de persecución y podrían considerarse crímenes de lesa humanidad.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe reconoce que el conflicto armado colombiano se relaciona con causas estructurales como la desigualdad social, el estigma, la discriminación y la exclusión institucional hacia poblaciones vulnerables, incluyendo a personas viviendo con VIH. Estas condiciones estructurales facilitaron el uso del VIH como herramienta de persecución por parte de actores armados. Como recomendaciones para la no repetición, el informe propone que la Comisión de la Verdad reconozca estos hechos como crímenes de persecución, que la Jurisdicción Especial para la Paz los investigue como macrocriminalidad y que se garantice la reparación integral a las víctimas, incluyendo el acceso a servicios de salud y justicia.",
+    "question": "¿Qué dice este informe 086-CI-01340 VIHdas truncadas: informe sobre violencias contra personas viviendo con VIH y Sida en relación con el conflicto armado de Colombia sobre las causas estructurales del conflicto armado y sus recomendaciones para la no repetición?",
+    "answer": "El informe identifica como causas estructurales del conflicto la desigualdad, la discriminación y el estigma, que facilitaron la persecución de personas con VIH. Recomienda reconocer estos hechos como crímenes de persecución, investigarlos como macrocriminalidad y garantizar reparación integral y acceso a derechos a las víctimas.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "Álvaro Miguel Rivera fue un activista por los derechos de las personas viviendo con VIH en zonas afectadas por el conflicto armado, como el Meta. Durante la zona de distensión, denunció violaciones a los derechos humanos, incluyendo pruebas forzadas de VIH por parte de las FARC-EP. Por sus acciones, recibió amenazas de muerte y fue declarado objetivo militar, lo que lo obligó a desplazarse y exiliarse. Posteriormente fue asesinado en Cali en 2009. Su historia representa la persecución sistemática y letal contra líderes sociales viviendo con VIH.",
+    "question": "¿Qué ocurrió con Álvaro Miguel Rivera según el informe 086-CI-01340 en relación con el conflicto armado colombiano?",
+    "answer": "Álvaro Miguel Rivera fue perseguido y asesinado por su activismo en defensa de personas con VIH en zonas de conflicto. Fue amenazado por varios actores armados tras denunciar pruebas forzadas y otras violaciones, y terminó exiliado antes de ser asesinado en 2009.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "Andrea, una mujer bisexual, fue víctima de violencia sexual por parte de un miembro de las FARC-EP, lo cual derivó en su diagnóstico positivo de VIH. Posteriormente, fue desplazada por amenazas paramilitares y enfrentó condiciones de extrema vulnerabilidad. En el Bajo Cauca Antioqueño fue forzada a ejercer trabajo sexual para sobrevivir. Más adelante, en otra región, recibió panfletos amenazantes que estigmatizaban a personas con VIH, lo que la obligó a reducir su activismo. Su testimonio refleja la acumulación de violencias y desplazamientos motivados por su condición de salud y orientación sexual.",
+    "question": "¿Qué relata el informe sobre Andrea, víctima de violencia sexual en el conflicto armado colombiano?",
+    "answer": "Andrea fue víctima de violencia sexual por parte de las FARC-EP, contrajo VIH y enfrentó desplazamientos forzados, estigmatización y amenazas de grupos paramilitares. Su historia muestra la persecución y acumulación de violencias contra personas viviendo con VIH en el conflicto armado.",
+    "generated_by": "gpt-4o"
+  },
+  {
+    "context": "El informe 086-CI-01340 señala que los actores armados distribuyeron panfletos en municipios como Circasia (Quindío) y Popayán (Cauca), en los que se amenazaba directamente a personas LGBTI, mujeres trabajadoras sexuales y personas viviendo con VIH. Los panfletos advertían sobre “limpieza social” y establecían plazos para abandonar ciertos barrios, generando desplazamientos forzados y un ambiente de terror. Estas amenazas se consideran parte de una campaña sistemática de persecución.",
+    "question": "¿Qué documenta el informe sobre los panfletos amenazantes en contra de personas viviendo con VIH durante el conflicto armado colombiano?",
+    "answer": "El informe documenta el uso de panfletos amenazantes por parte de actores armados para intimidar y desplazar a personas con VIH, especialmente en zonas como Quindío y Cauca. Estos hechos hacen parte de una estrategia sistemática de persecución en el conflicto armado.",
+    "generated_by": "gpt-4o"
   }
 ]
