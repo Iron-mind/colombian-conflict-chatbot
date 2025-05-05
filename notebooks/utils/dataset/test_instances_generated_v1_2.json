@@ -1,14 +1,14 @@
 [
   {
     "question": "¿Qué informe documenta la Operación Orión y su impacto en la Comuna 13 de Medellín?",
-    "context": "El documento analiza la Operación Orión (octubre de 2002), la coordinación entre fuerza pública y paramilitares, las desapariciones forzadas y detenciones arbitrarias, así como la consolidación posterior del control armado y las resistencias comunitarias.",
+    "context": "El informe 058‑CI‑01347 «Comuna 13: memorias de un territorio en resistencia» analiza la Operación Orión (octubre de 2002), la coordinación entre fuerza pública y paramilitares, las desapariciones forzadas y detenciones arbitrarias, así como la consolidación posterior del control armado y las resistencias comunitarias.",
     "answer": "El informe 058‑CI‑01347 «Comuna 13: memorias de un territorio en resistencia» detalla la Operación Orión y explica por qué este operativo es clave para entender las graves violaciones a los derechos humanos en la Comuna 13.",
     "generated_by": "gpt-4o"
   },
   {
     "question": "¿Qué informe analiza la relación entre los monocultivos de palma aceitera y caña de azúcar y la profundización del conflicto armado colombiano?",
-    "context": "El documento expone cómo la expansión de estos monocultivos—respaldada por actores armados, empresariales y estatales—provocó desplazamientos forzados y pérdida de soberanía territorial en cinco regiones del país.",
-    "answer": "El informe 066‑CI‑00538 «Misión internacional para la verificación del impacto de los agrocombustibles en cinco zonas afectadas por los monocultivos de palma aceitera y caña de azúcar en Colombia» explica de manera directa ese vínculo entre agrocombustibles y conflicto armado.",
+    "context": "El informe 066‑CI‑00538 «Misión internacional para la verificación del impacto de los agrocombustibles en cinco zonas afectadas por los monocultivos de palma aceitera y caña de azúcar en Colombia» expone cómo la expansión de estos monocultivos—respaldada por actores armados, empresariales y estatales—provocó desplazamientos forzados y pérdida de soberanía territorial en cinco regiones del país.",
+    "answer": "El informe «Misión internacional para la verificación del impacto de los agrocombustibles»  explica de manera directa ese vínculo entre agrocombustibles y conflicto armado.",
     "generated_by": "gpt-4o"
   },
   {
@@ -25,24 +25,24 @@
   },
   {
     "context": "El informe identifica como causas estructurales del conflicto la desigualdad en el acceso a la tierra, la exclusión política, la represión de los movimientos sociales, la concentración del poder económico y político, y la criminalización de la protesta. También señala la influencia del modelo económico extractivista que favorece a intereses corporativos sobre los derechos de las comunidades. Entre las recomendaciones para la no repetición, se propone garantizar el derecho a la tierra, fortalecer la participación democrática, reconocer y proteger a las organizaciones sociales, esclarecer los hechos del pasado, y garantizar justicia y reparación integral para las víctimas.",
-    "question": "¿Qué dice este informe 058-CI-00661 Informe sobre el conflicto social y armado en el suroeste de Antioquia sobre las causas estructurales del conflicto armado y sus recomendaciones para la no repetición?",
+    "question": "¿Qué dice este informe 058-CI-00661 «Informe sobre el conflicto social y armado en el suroeste de Antioquia» sobre las causas estructurales del conflicto armado y sus recomendaciones para la no repetición?",
     "answer": "El informe atribuye el conflicto a causas estructurales como la concentración de la tierra, exclusión política, represión estatal y modelo económico extractivista. Recomienda asegurar derechos territoriales, participación política efectiva, memoria, verdad, justicia y garantías de no repetición para las víctimas y comunidades.",
     "generated_by": "gpt-4o"
   },
   {
-    "context": "El informe señala que el Movimiento Solidario y Cooperativo del Oriente Antioqueño fue uno de los sectores más golpeados por el conflicto armado. A pesar de ello, cumplió un papel protagónico al desplegar acciones de resistencia y apoyo a las comunidades desplazadas. Las cooperativas enfrentaron tomas armadas, desplazamiento forzado, confinamiento, extorsión e intimidación, pero lograron mantener su operación mediante estrategias de sostenibilidad, expansión y fortalecimiento del tejido social. Se destaca el apoyo a las personas asociadas mediante la condonación de deudas, créditos especiales y reconstrucción física de los municipios.",
-    "question": "¿Cuáles son los hallazgos principales del informe 058-CI-00662 Memoria y construcción de paz en el sector cooperativo del oriente antioqueño: estudio de caso de las cooperativas Coogranada, Creafam, Confiar, Pío XII y Coosanluis entre 1991 y 2016 sobre el conflicto armado colombiano?",
+    "context": "El informe  058-CI-00662 «Memoria y construcción de paz en el sector cooperativo» señala que el Movimiento Solidario y Cooperativo del Oriente Antioqueño fue uno de los sectores más golpeados por el conflicto armado. A pesar de ello, cumplió un papel protagónico al desplegar acciones de resistencia y apoyo a las comunidades desplazadas. Las cooperativas enfrentaron tomas armadas, desplazamiento forzado, confinamiento, extorsión e intimidación, pero lograron mantener su operación mediante estrategias de sostenibilidad, expansión y fortalecimiento del tejido social. Se destaca el apoyo a las personas asociadas mediante la condonación de deudas, créditos especiales y reconstrucción física de los municipios.",
+    "question": "¿Cuáles son los hallazgos principales del informe 058-CI-00662 «Memoria y construcción de paz en el sector cooperativo del oriente antioqueño: estudio de caso de las cooperativas Coogranada, Creafam, Confiar, Pío XII y Coosanluis entre 1991 y 2016» sobre el conflicto armado colombiano?",
     "answer": "El informe documenta que las cooperativas del Oriente Antioqueño fueron gravemente afectadas por el conflicto armado mediante desplazamientos forzados, violencia directa a empleados y asociados, y presiones de actores armados. No obstante, desempeñaron un papel clave en la resistencia civil, apoyando a comunidades desplazadas y contribuyendo a la reconstrucción del tejido social mediante estrategias económicas solidarias y acciones comunitarias.",
     "generated_by": "gpt-4o"
   },
   {
-    "context": "El informe detalla que las cooperativas fueron blanco de diversas acciones violentas durante el conflicto armado. Estas incluyeron asesinatos de empleados, familiares y asociados; robos e intentos de extorsión; y violencia psicológica e intimidación por parte de grupos armados. Estos actos no solo afectaron el funcionamiento de las cooperativas, sino que también contribuyeron al empobrecimiento de sus comunidades asociadas y al desplazamiento forzado masivo.",
+    "context": "El informe 058-CI-00662 «Memoria y construcción de paz en el sector cooperativo»  detalla que las cooperativas fueron blanco de diversas acciones violentas durante el conflicto armado. Estas incluyeron asesinatos de empleados, familiares y asociados; robos e intentos de extorsión; y violencia psicológica e intimidación por parte de grupos armados. Estos actos no solo afectaron el funcionamiento de las cooperativas, sino que también contribuyeron al empobrecimiento de sus comunidades asociadas y al desplazamiento forzado masivo.",
     "question": "¿Qué tipo de violencia vivieron las cooperativas del Oriente Antioqueño entre 1991 y 2016 según el informe?",
     "answer": "Las cooperativas del Oriente Antioqueño vivieron asesinatos selectivos de su personal y asociados, robos, extorsión, amenazas e intimidación psicológica por parte de actores armados. Estas formas de violencia afectaron gravemente su funcionamiento institucional, provocaron desplazamiento forzado y contribuyeron a la descomposición del tejido social de las comunidades cooperadas.",
     "generated_by": "gpt-4o"
   },
   {
-    "context": "El informe resalta que una reconciliación multinacional, multicultural y multiétnica es esencial para asegurar la no repetición. Plantea que deben transformarse las estructuras que perpetúan la dominación étnica y que el diálogo debe incluir múltiples dimensiones socio-culturales【4:8†source】.",
+    "context": "El informe 365-CI-00941 La participación de pueblos indígenas en justicia transicional resalta que una reconciliación multinacional, multicultural y multiétnica es esencial para asegurar la no repetición. Plantea que deben transformarse las estructuras que perpetúan la dominación étnica y que el diálogo debe incluir múltiples dimensiones socio-culturales【4:8†source】.",
     "question": "¿Qué dice este informe 365-CI-00941 La participación de pueblos indígenas en justicia transicional - ¿oportunidad de cambios? Aprendizajes de Colombia sobre las causas estructurales del conflicto armado y sus recomendaciones para la no repetición?",
     "answer": "El informe propone dialogar y revisar estructuras socio-culturales como medidas claves para la no repetición y aborda las causas estructurales del conflicto desde la perspectiva de dominación étnica y falta de reconocimiento multicultural.",
     "generated_by": "gpt-4o"
